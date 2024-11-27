@@ -1,13 +1,13 @@
 ---
-title: "Casos"
+title: "Todas as ações realizadas"
 listing:
     contents: .
-    sort: title
-    type: default
+    sort: date
+    type: table
     categories: true
     sort-ui: false
     filter-ui: true
-    fields: [title, author, description]
+    fields: [title, author, description, date]
 page-layout: full
 title-block-bannerrR: false
 ---

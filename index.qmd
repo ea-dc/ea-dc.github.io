@@ -1,17 +1,41 @@
 ---
 title: "Ensino e Aprendizagem no DC"
 listing:
-    contents: acoes
+    id: acoes
+    contents:
+        - acoes/2*.qmd  # arquivos que começam com 2 (e.g., 2025-....)
     sort: date desc
     type: default
-    categories: true
+    max-items: 4
+    categories: false
     sort-ui: false
-    filter-ui: true
+    filter-ui: false
+    fields: [author, title, date, description]
 page-layout: full
 title-block-bannerrR: false
 ---
 
 
-This is a Quarto website.
+:::: {.columns}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.column width="50%"}
+Este site é dedicado ao planejamento do ensino e aprendizagem no DC!
+
+Este grupo iniciou seus trabalhos no início de 2025.
+:::
+
+::: {.column width="5%"}
+:::
+
+
+::: {.column width="35%"}
+**O que acontece por aqui?**
+
+::: {#acoes}
+:::
+
+[Todas as ações do grupo!](acoes/index.html)
+
+:::
+
+::::

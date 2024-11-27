@@ -1,0 +1,7 @@
+---
+title: "Competências"
+categories:
+    - "Competências"
+---
+
+Competências!

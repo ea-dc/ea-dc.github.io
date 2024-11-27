@@ -1,14 +1,15 @@
 ---
-title: "Metodologias ativas"
+title: "Construção"
 listing:
     contents: .
     sort: title
-    type: default
+    type: table
     categories: true
     sort-ui: false
     filter-ui: true
-    fields: [title, author, description]
+    fields: [title, description]
 page-layout: full
 title-block-bannerrR: false
 ---
 
+Material destinado a como organizar, planejar etc.

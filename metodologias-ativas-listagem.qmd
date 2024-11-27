@@ -1,9 +1,0 @@
----
-title: "Listagem das metodologias"
-listing:
-    type: table
-    contents:
-        - "metodologias-ativas/*.qmd"
----
-
-## As MAs no DC
