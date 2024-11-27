@@ -1,13 +1,7 @@
 [
   {
-    "listing": "/casos.html",
+    "listing": "/index.html",
     "items": []
-  },
-  {
-    "listing": "/metodologias-ativas-listagem.html",
-    "items": [
-      "/metodologias-ativas/index.html"
-    ]
   },
   {
     "listing": "/casos/index.html",
@@ -20,6 +14,12 @@
     "items": [
       "/metodologias-ativas/fishbow/fishbow.html",
       "/metodologias-ativas/snowball/snowball.html"
+    ]
+  },
+  {
+    "listing": "/metodologias-ativas-listagem.html",
+    "items": [
+      "/metodologias-ativas/index.html"
     ]
   }
 ]

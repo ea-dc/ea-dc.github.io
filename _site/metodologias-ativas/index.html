@@ -140,6 +140,9 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../logo-dc.png" alt="" class="navbar-logo">
+    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Ensino e Aprendizagem no DC</span>
     </a>
@@ -160,13 +163,13 @@ window.Quarto = {
  <span class="dropdown-text">Visão geral</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../metodologias-ativas">
+    <a class="dropdown-item" href="../metodologias-ativas/index.html">
  <span class="dropdown-text">Relação de metodologias</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../casos"> 
+    <a class="nav-link" href="../casos/index.html"> 
 <span class="menu-text">Casos no DC</span></a>
   </li>  
   <li class="nav-item">
@@ -231,7 +234,7 @@ window.Quarto = {
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1732649410811" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1732716736007" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
 <a href="../metodologias-ativas/fishbow/fishbow.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -249,13 +252,13 @@ Jander Moreira
 </div>
 <div class="card-footer">
 <div class="card-file-modified listing-file-modified">
-<p>26/11/2024, 16:30:10</p>
+<p>27/11/2024, 11:12:16</p>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1732651323352" data-listing-reading-time-sort="2" data-listing-word-count-sort="350">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1732716736007" data-listing-reading-time-sort="2" data-listing-word-count-sort="350">
 <a href="../metodologias-ativas/snowball/snowball.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -273,7 +276,7 @@ Edilson Kato
 </div>
 <div class="card-footer">
 <div class="card-file-modified listing-file-modified">
-<p>26/11/2024, 17:02:03</p>
+<p>27/11/2024, 11:12:16</p>
 </div>
 </div>
 </div>
@@ -518,7 +521,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/ea-dc\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

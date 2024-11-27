@@ -31,9 +31,9 @@ website:
           - text: "Visão geral"
             href: metodologias-ativas.qmd
           - text: "Relação de metodologias"
-            href: metodologias-ativas
+            href: metodologias-ativas/index.html
       - text: "Casos no DC"
-        href: casos
+        href: casos/index.html
       - material.qmd
       - sobre.qmd
 
