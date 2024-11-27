@@ -5,20 +5,19 @@ lang: pt-BR
 # page-layout: full
 
 website:
+  announcement: 
+    icon: exclamation-octagon
+    dismissable: false
+    content: "**Atenção** - Este site é apenas um protótipo/estudo de conceito. Não há informações relevantes aqui!"
+    type: danger
+    position: above-navbar
+    
   title: "Ensino e Aprendizagem no DC"
   reader-mode: true
+  bread-crumbs: true
 
   page-footer: |
         [Departamento de Computação](https://www.dc.ufscar.br){target="_blank"} - [UFSCar](https://www.ufscar.br){target="_blank"}
-
-  # navbar: 
-  #   left:
-  #     - text: "Metodologias ativas"
-  #       menu:
-  #         - metodologias-ativas.qmd
-  #         - metodologias-ativas-listagem.qmd
-  #     - casos.qmd
-  #     - sobre.qmd 
 
   navbar:
     logo: logo-dc.png
@@ -32,6 +31,8 @@ website:
             href: metodologias-ativas.qmd
           - text: "Relação de metodologias"
             href: metodologias-ativas/index.html
+      - text: "Avaliação"
+        href: avaliacao/index.html
       - text: "Casos no DC"
         href: casos/index.html
       - material.qmd

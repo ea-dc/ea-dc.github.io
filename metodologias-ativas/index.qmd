@@ -3,11 +3,11 @@ title: "Metodologias ativas"
 listing:
     contents: .
     sort: date desc
-    type: grid
+    type: default
     categories: true
     sort-ui: false
     filter-ui: true
-    fields: [title, author, description, file-modified]
+    fields: [title, author, description]
 page-layout: full
 title-block-bannerrR: false
 ---

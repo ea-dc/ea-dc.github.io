@@ -2,12 +2,14 @@
 title: "Avaliação"
 listing:
     contents: .
-    sort: date desc
-    type: grid
+    sort: title
+    type: table
     categories: true
     sort-ui: false
     filter-ui: true
+    fields: [title, description, categories]
 page-layout: full
 title-block-bannerrR: false
 ---
 
+Instrumentos de avaliação.

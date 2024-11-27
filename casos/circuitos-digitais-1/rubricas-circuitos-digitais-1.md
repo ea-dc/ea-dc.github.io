@@ -6,4 +6,4 @@ categories:
     - "Competências"
 ---
 
-Uso de rubricas
+Uso de [rubricas](/avaliacao/rubricas.qmd)

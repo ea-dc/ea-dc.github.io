@@ -11,6 +11,9 @@
     ],
     "index.qmd": [
       "acoes"
+    ],
+    "avaliacao/index.qmd": [
+      "."
     ]
   }
 }

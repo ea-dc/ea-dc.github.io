@@ -81,5 +81,17 @@
   },
   "material.qmd": {
     "material.html": "61cc38da"
+  },
+  "avaliacao/rubricas/rubricas.qmd": {
+    "rubricas.html": "793b4202"
+  },
+  "avaliacao/index.qmd": {
+    "index.html": "521623f3"
+  },
+  "avaliacao/rubricas/index.qmd": {
+    "index.html": "fa847238"
+  },
+  "avaliacao/rubricas.qmd": {
+    "rubricas.html": "c16e01a2"
   }
 }
