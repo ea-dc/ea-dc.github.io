@@ -4,42 +4,42 @@
     "href": "index.html",
     "title": "Ensino e Aprendizagem no DC",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nSem itens correspondentes"
+    "text": "Este site é dedicado ao planejamento do ensino e aprendizagem no DC!\nEste grupo iniciou seus trabalhos no início de 2025.\n\n\n\nO que acontece por aqui?\n\n\n\n\n\nCurso do MetAA\n\n\n\n\n\n\n\n\n\n\n\n20 de jan. de 2025\n\n\nJander , Auri\n\n\n\n\n\n\nSem itens correspondentes\n\n\nTodas as ações do grupo!"
   },
   {
-    "objectID": "competencias.html",
-    "href": "competencias.html",
+    "objectID": "construcao/competencias.html",
+    "href": "construcao/competencias.html",
     "title": "Competências",
     "section": "",
-    "text": "Competências"
+    "text": "Competências!"
   },
   {
-    "objectID": "metodologias-ativas/snowball/snowball.html",
-    "href": "metodologias-ativas/snowball/snowball.html",
+    "objectID": "acoes/index.html",
+    "href": "acoes/index.html",
+    "title": "Todas as ações realizadas",
+    "section": "",
+    "text": "Seguem exemplos de uso do material deste site aplicado a disciplinas e aos próprios projetos pedagógicos.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTítulo\n\n\nAutor\n\n\nDescrição\n\n\nData\n\n\n\n\n\n\nCurso do MetAA\n\n\nJander , Auri \n\n\n\n\n\n20 de jan. de 2025\n\n\n\n\n\nSem itens correspondentes"
+  },
+  {
+    "objectID": "metodologias-ativas/index.html",
+    "href": "metodologias-ativas/index.html",
+    "title": "Metodologias ativas",
+    "section": "",
+    "text": "Fishbow\n\n\n\n\n\n\n\n\n\n\n\nJander Moreira\n\n\n\n\n\n\n\nSnowball\n\n\n\n\n\n\n\n\n\n\n\nEdilson Kato\n\n\n\n\n\n\nSem itens correspondentes"
+  },
+  {
+    "objectID": "metodologias-ativas/snowball.html",
+    "href": "metodologias-ativas/snowball.html",
     "title": "Snowball",
     "section": "",
     "text": "Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those STOP options will appear with any specified tools.\nWhen the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu. Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.\nWhen the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.\nTools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.\nWhen the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu. Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.\nWhen the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.\nTools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.\nWhen the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.\nTools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.\nWhen the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu."
-  },
-  {
-    "objectID": "metodologias-ativas.html#referências-interessantes",
-    "href": "metodologias-ativas.html#referências-interessantes",
-    "title": "Sobre metodologias ativas",
-    "section": "Referências interessantes",
-    "text": "Referências interessantes"
-  },
-  {
-    "objectID": "metodologias-ativas.html#metaa",
-    "href": "metodologias-ativas.html#metaa",
-    "title": "Sobre metodologias ativas",
-    "section": "MetAA",
-    "text": "MetAA\nVeja o MetAA!"
   },
   {
     "objectID": "casos/index.html",
     "href": "casos/index.html",
     "title": "Casos",
     "section": "",
-    "text": "Circuitos Digitais 1\n\n\n\n\n\n\n\n\n\n\n\nKato\n\n\n\n\n\n\nSem itens correspondentes"
+    "text": "Seguem exemplos de uso do material deste site aplicado a disciplinas e aos próprios projetos pedagógicos.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nCircuitos Digitais 1\n\n\n\n\n\n\n\n\n\n\n\nKato\n\n\n\n\n\n\nSem itens correspondentes"
   },
   {
     "objectID": "sobre.html",
@@ -60,7 +60,7 @@
     "href": "avaliacao/rubricas.html",
     "title": "Rubricas",
     "section": "",
-    "text": "Rubricas são thing to links between pages in your site, you can provide.\n\nO que são\nThe source file as the link target (rather than the .html file). You can also add hash identifiers (#) to the source file if you want to link to a particular section in the document. For example:\nOne benefit of using this style of link as opposed to targeting .html files directly is that if you at some point convert your site to a book the file-based links will automatically resolve to section links for formats that produce a single file (e.g. PDF or MS Word)"
+    "text": "Rubricas são thing to links between pages in your site, you can provide."
   },
   {
     "objectID": "objetos-educacionais.html",
@@ -70,8 +70,8 @@
     "text": "Ou objetos de aprendizagem"
   },
   {
-    "objectID": "casos/circuitos-digitais-1/rubricas-circuitos-digitais-1.html",
-    "href": "casos/circuitos-digitais-1/rubricas-circuitos-digitais-1.html",
+    "objectID": "casos/rubricas-circuitos-digitais-1.html",
+    "href": "casos/rubricas-circuitos-digitais-1.html",
     "title": "Circuitos Digitais 1",
     "section": "",
     "text": "Uso de rubricas"
@@ -84,17 +84,31 @@
     "text": "Uma coletânea dos materiais usados neste site pode ser vista no Google Drive"
   },
   {
-    "objectID": "metodologias-ativas/fishbow/fishbow.html",
-    "href": "metodologias-ativas/fishbow/fishbow.html",
+    "objectID": "metodologias-ativas/fishbow.html",
+    "href": "metodologias-ativas/fishbow.html",
     "title": "Fishbow",
     "section": "",
     "text": "O aquário é…"
   },
   {
-    "objectID": "metodologias-ativas/index.html",
-    "href": "metodologias-ativas/index.html",
-    "title": "Metodologias ativas",
+    "objectID": "acoes/2025-01-curso-metaa.html",
+    "href": "acoes/2025-01-curso-metaa.html",
+    "title": "Curso do MetAA",
     "section": "",
-    "text": "Fishbow\n\n\n\n\n\n\n\n\n\n\n\nJander Moreira\n\n\n\n\n\n\n\nSnowball\n\n\n\n\n\n\n\n\n\n\n\nEdilson Kato\n\n\n\n\n\n\nSem itens correspondentes"
+    "text": "curso do metaa."
+  },
+  {
+    "objectID": "competencias.html",
+    "href": "competencias.html",
+    "title": "Competências",
+    "section": "",
+    "text": "Competências"
+  },
+  {
+    "objectID": "construcao/index.html",
+    "href": "construcao/index.html",
+    "title": "Construção",
+    "section": "",
+    "text": "Material destinado a como organizar, planejar etc.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTítulo\n\n\nDescrição\n\n\n\n\n\n\nCompetências\n\n\n\n\n\n\n\n\nSem itens correspondentes"
   }
 ]

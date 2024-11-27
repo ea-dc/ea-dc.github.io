@@ -73,20 +73,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-acoes .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-author','listing-title','listing-date','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-acoes'] = new List('listing-acoes', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -156,21 +156,14 @@ window.Quarto = {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-metodologias-ativas" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Metodologias ativas</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-metodologias-ativas">    
-        <li>
-    <a class="dropdown-item" href="./metodologias-ativas.html">
- <span class="dropdown-text">Visão geral</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="./metodologias-ativas/index.html"> 
+<span class="menu-text">Metodologias ativas</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./metodologias-ativas/index.html">
- <span class="dropdown-text">Relação de metodologias</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="./construcao/index.html"> 
+<span class="menu-text">Construção</span></a>
   </li>  
-    </ul>
-  </li>
   <li class="nav-item">
     <a class="nav-link" href="./avaliacao/index.html"> 
 <span class="menu-text">Avaliação</span></a>
@@ -204,11 +197,11 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categorias</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todos <span class="quarto-category-count">(0)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -217,7 +210,7 @@ window.Quarto = {
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -229,26 +222,52 @@ window.Quarto = {
 </header>
 
 
-<p>This is a Quarto website.</p>
-<p>To learn more about Quarto websites visit <a href="https://quarto.org/docs/websites" class="uri">https://quarto.org/docs/websites</a>.</p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p>Este site é dedicado ao planejamento do ensino e aprendizagem no DC!</p>
+<p>Este grupo iniciou seus trabalhos no início de 2025.</p>
+</div><div class="column" style="width:5%;">
 
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="listing-actions-group">
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filtro">
-    </div>
-</div>
+</div><div class="column" style="width:35%;">
+<p><strong>O que acontece por aqui?</strong></p>
+<div id="listing-acoes" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-
+<div class="quarto-post image-right" data-index="0" data-categories="UGFsZXN0cmElMkNPYmpldGl2b3MlMjBlZHVjYWNpb25haXMlMkNUYXhvbm9taWElMjBkZSUyMEJsb29t" data-listing-date-sort="1737342000000" data-listing-file-modified-sort="1732734790679" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./acoes/2025-01-curso-metaa.html" class="no-external">Curso do MetAA</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./acoes/2025-01-curso-metaa.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./acoes/2025-01-curso-metaa.html" class="no-external">curso do metaa.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./acoes/2025-01-curso-metaa.html" class="no-external">
+<div class="listing-date">
+20 de jan. de 2025
+</div>
+<div class="listing-author">
+Jander , Auri
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 Sem itens correspondentes
 </div>
-</div></main> <!-- /main -->
+</div>
+<p><a href="acoes/index.html">Todas as ações do grupo!</a></p>
+</div>
+</div>
+
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

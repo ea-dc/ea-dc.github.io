@@ -1,12 +1,27 @@
 [
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/acoes/2025-01-curso-metaa.html"
+    ]
+  },
+  {
+    "listing": "/acoes/index.html",
+    "items": [
+      "/acoes/2025-01-curso-metaa.html"
+    ]
+  },
+  {
+    "listing": "/metodologias-ativas/index.html",
+    "items": [
+      "/metodologias-ativas/fishbow.html",
+      "/metodologias-ativas/snowball.html"
+    ]
   },
   {
     "listing": "/casos/index.html",
     "items": [
-      "/casos/circuitos-digitais-1/rubricas-circuitos-digitais-1.html"
+      "/casos/rubricas-circuitos-digitais-1.html"
     ]
   },
   {
@@ -16,16 +31,9 @@
     ]
   },
   {
-    "listing": "/metodologias-ativas/index.html",
+    "listing": "/construcao/index.html",
     "items": [
-      "/metodologias-ativas/fishbow/fishbow.html",
-      "/metodologias-ativas/snowball/snowball.html"
-    ]
-  },
-  {
-    "listing": "/metodologias-ativas-listagem.html",
-    "items": [
-      "/metodologias-ativas/index.html"
+      "/construcao/competencias.html"
     ]
   }
 ]

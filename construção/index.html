@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Avaliação – Ensino e Aprendizagem no DC</title>
+<title>Construção – Ensino e Aprendizagem no DC</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author"],
+      searchColumns: ["listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -156,16 +156,27 @@ window.Quarto = {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="../metodologias-ativas/index.html"> 
-<span class="menu-text">Metodologias ativas</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-metodologias-ativas" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Metodologias ativas</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-metodologias-ativas">    
+        <li>
+    <a class="dropdown-item" href="../metodologias-ativas.qmd">
+ <span class="dropdown-text">Visão geral</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../metodologias-ativas/index.html">
+ <span class="dropdown-text">Relação de metodologias</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="../construcao/index.html"> 
 <span class="menu-text">Construção</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../avaliacao/index.html" aria-current="page"> 
+    <a class="nav-link" href="../avaliacao/index.html"> 
 <span class="menu-text">Avaliação</span></a>
   </li>  
   <li class="nav-item">
@@ -199,13 +210,13 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categorias</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todos <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHJvZ3JhbWFz">Programas <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHJvdmFz">Provas <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2VtaW4lQzMlQTFyaW9z">Seminários <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VHJhYmFsaG9zJTIwZW0lMjBncnVwbw==">Trabalhos em grupo <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categorias</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todos <span class="quarto-category-count">(0)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Avaliação</h1>
+<h1 class="title">Construção</h1>
 </div>
 
 
@@ -222,46 +233,21 @@ window.Quarto = {
 </header>
 
 
-<p>Instrumentos de avaliação.</p>
+<p>Material destinado a como organizar, planejar etc.</p>
 
 
 
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="listing-actions-group">
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
       <input type="text" class="search form-control" placeholder="Filtro">
     </div>
 </div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-Título
-</th>
-<th>
-Descrição
-</th>
-<th>
-Categorias
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-categories="UHJvdmFzJTJDUHJvZ3JhbWFzJTJDVHJhYmFsaG9zJTIwZW0lMjBncnVwbyUyQ1NlbWluJUMzJUExcmlvcw==" data-listing-file-modified-sort="1732728849535" data-listing-reading-time-sort="1" data-listing-word-count-sort="13" data-listing-title-sort="Rubricas" data-listing-filename-sort="rubricas.qmd">
-<td>
-<a href="../avaliacao/rubricas.html" class="title listing-title">Rubricas</a>
-</td>
-<td>
-<span class="listing-description">Rubricas são thing to links between pages in your site, you can provide.</span>
-</td>
-<td>
-<span class="listing-categories">Provas, Programas, Trabalhos em grupo, Seminários</span>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="list quarto-listing-default">
+
+</div>
 <div class="listing-no-matching d-none">
 Sem itens correspondentes
 </div>
@@ -500,7 +486,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/ea-dc\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
