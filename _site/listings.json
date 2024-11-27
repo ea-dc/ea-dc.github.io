@@ -1,0 +1,25 @@
+[
+  {
+    "listing": "/casos.html",
+    "items": []
+  },
+  {
+    "listing": "/metodologias-ativas-listagem.html",
+    "items": [
+      "/metodologias-ativas/index.html"
+    ]
+  },
+  {
+    "listing": "/casos/index.html",
+    "items": [
+      "/casos/circuitos-digitais-1/rubricas-circuitos-digitais-1.html"
+    ]
+  },
+  {
+    "listing": "/metodologias-ativas/index.html",
+    "items": [
+      "/metodologias-ativas/fishbow/fishbow.html",
+      "/metodologias-ativas/snowball/snowball.html"
+    ]
+  }
+]

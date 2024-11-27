@@ -1,0 +1,26 @@
+---
+title: Snowball
+author: Edilson Kato
+---
+
+Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those STOP options will appear with any specified tools.
+
+When the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.
+Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.
+
+When the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.
+
+Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.
+
+When the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.
+Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.
+
+When the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.
+
+Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.
+
+When the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.
+
+Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.
+
+When the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.

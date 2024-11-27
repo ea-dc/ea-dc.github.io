@@ -1,0 +1,52 @@
+project:
+  type: website
+
+lang: pt-BR 
+# page-layout: full
+
+website:
+  title: "Ensino e Aprendizagem no DC"
+  reader-mode: true
+
+  page-footer: |
+        [Departamento de Computação](https://www.dc.ufscar.br){target="_blank"} - [UFSCar](https://www.ufscar.br){target="_blank"}
+
+  # navbar: 
+  #   left:
+  #     - text: "Metodologias ativas"
+  #       menu:
+  #         - metodologias-ativas.qmd
+  #         - metodologias-ativas-listagem.qmd
+  #     - casos.qmd
+  #     - sobre.qmd 
+
+  navbar:
+    logo: logo-dc.png
+    search: true
+    left:
+      # - text: "Início"
+      #   href: index.qmd
+      - text: "Metodologias ativas"
+        menu:
+          - text: "Visão geral"
+            href: metodologias-ativas.qmd
+          - text: "Relação de metodologias"
+            href: metodologias-ativas
+      - text: "Casos no DC"
+        href: casos
+      - material.qmd
+      - sobre.qmd
+
+format:
+  html:
+    fontsize: 14pt
+    theme:
+      light: yeti
+      dark: cyborg
+
+    css: styles.css
+    toc: true
+
+  # pdf:
+  #   latex-output-dir: out/
+  #   pdf-engine: pdflatex
