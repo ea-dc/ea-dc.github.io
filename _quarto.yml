@@ -4,6 +4,9 @@ project:
 lang: pt-BR 
 # page-layout: full
 
+filters: 
+  - ajuste-data.lua
+
 website:
   announcement: 
     icon: exclamation-octagon
@@ -23,14 +26,14 @@ website:
     logo: logo-dc.png
     search: true
     left:
-      # - text: "Início"
-      #   href: index.qmd
+      # - text: "Metodologias ativas"
+      #   menu:
+      #     - text: "Visão geral"
+      #       href: metodologias-ativas/metodologias-ativas.qmd
       - text: "Metodologias ativas"
-        menu:
-          - text: "Visão geral"
-            href: metodologias-ativas.qmd
-          - text: "Relação de metodologias"
-            href: metodologias-ativas/index.html
+        href: metodologias-ativas/index.html
+      - text: "Construção"
+        href: construcao/index.html
       - text: "Avaliação"
         href: avaliacao/index.html
       - text: "Casos no DC"
