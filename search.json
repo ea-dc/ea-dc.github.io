@@ -37,9 +37,9 @@
   {
     "objectID": "casos/index.html",
     "href": "casos/index.html",
-    "title": "Casos no DC",
+    "title": "Casos",
     "section": "",
-    "text": "Circuitos Digitais 1\n\n\n\nRubricas\n\n\nCompetências\n\n\n\n\n\n\n\nKato\n\n\n\n\n\n\n\n\nSem itens correspondentes"
+    "text": "Circuitos Digitais 1\n\n\n\n\n\n\n\n\n\n\n\nKato\n\n\n\n\n\n\nSem itens correspondentes"
   },
   {
     "objectID": "sobre.html",
@@ -47,6 +47,20 @@
     "title": "Sobre nós",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "avaliacao/index.html",
+    "href": "avaliacao/index.html",
+    "title": "Avaliação",
+    "section": "",
+    "text": "Instrumentos de avaliação.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTítulo\n\n\nDescrição\n\n\nCategorias\n\n\n\n\n\n\nRubricas\n\n\n\n\n\nProvas, Programas, Trabalhos em grupo, Seminários\n\n\n\n\n\nSem itens correspondentes"
+  },
+  {
+    "objectID": "avaliacao/rubricas.html",
+    "href": "avaliacao/rubricas.html",
+    "title": "Rubricas",
+    "section": "",
+    "text": "Rubricas são thing to links between pages in your site, you can provide.\n\nO que são\nThe source file as the link target (rather than the .html file). You can also add hash identifiers (#) to the source file if you want to link to a particular section in the document. For example:\nOne benefit of using this style of link as opposed to targeting .html files directly is that if you at some point convert your site to a book the file-based links will automatically resolve to section links for formats that produce a single file (e.g. PDF or MS Word)"
   },
   {
     "objectID": "objetos-educacionais.html",
@@ -81,6 +95,6 @@
     "href": "metodologias-ativas/index.html",
     "title": "Metodologias ativas",
     "section": "",
-    "text": "Fishbow\n\n\n\n\n\n\nJander Moreira\n\n\n\n\n\n27/11/2024, 11:12:16\n\n\n\n\n\n\n\n\n\n\nSnowball\n\n\n\n\n\n\nEdilson Kato\n\n\n\n\n\n27/11/2024, 11:12:16\n\n\n\n\n\n\n\nSem itens correspondentes"
+    "text": "Fishbow\n\n\n\n\n\n\n\n\n\n\n\nJander Moreira\n\n\n\n\n\n\n\nSnowball\n\n\n\n\n\n\n\n\n\n\n\nEdilson Kato\n\n\n\n\n\n\nSem itens correspondentes"
   }
 ]

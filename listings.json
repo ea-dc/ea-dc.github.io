@@ -10,6 +10,12 @@
     ]
   },
   {
+    "listing": "/avaliacao/index.html",
+    "items": [
+      "/avaliacao/rubricas.html"
+    ]
+  },
+  {
     "listing": "/metodologias-ativas/index.html",
     "items": [
       "/metodologias-ativas/fishbow/fishbow.html",
