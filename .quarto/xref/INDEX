@@ -1,97 +1,11 @@
 {
-  "about.qmd": {
-    "about.html": "e2f2e920"
-  },
   "index.qmd": {
-    "index.html": "dce3195e",
-    "index.tex": "e948225f"
-  },
-  "sobre.qmd": {
-    "sobre.html": "50d7d631",
-    "sobre.tex": "fdec3f3c"
-  },
-  "metodologias-ativas.qmd": {
-    "metodologias-ativas.html": "dba20849",
-    "metodologias-ativas.tex": "68370406"
-  },
-  "objetos-educacionais.qmd": {
-    "objetos-educacionais.html": "131b341f",
-    "objetos-educacionais.tex": "70069cb0"
-  },
-  "competencias.qmd": {
-    "competencias.html": "3b3cbeaa",
-    "competencias.tex": "004baa62"
-  },
-  "metodologias_ativas/snowball.qmd": {
-    "snowball.html": "6eac98cf"
-  },
-  "metodologias_ativas/fishbow.qmd": {
-    "fishbow.html": "8c847ed7"
-  },
-  "metodologias_ativas_arquivos/snowball.qmd": {
-    "snowball.html": "3bfc2623"
-  },
-  "metodologias_ativas_arquivos/fishbow.qmd": {
-    "fishbow.html": "f682453c"
-  },
-  "casos.qmd": {
-    "casos.html": "1c2bdc24",
-    "casos.tex": "59424fad"
-  },
-  "metologias-ativas.qmd": {
-    "metologias-ativas.html": "1c5f8035"
-  },
-  "metodologias-ativas/fishbow.qmd": {
-    "fishbow.html": "07a16e49",
-    "fishbow.tex": "18812135"
-  },
-  "metodologias-ativas/snowball.qmd": {
-    "snowball.html": "a880b5e4",
-    "snowball.tex": "0cb3486d"
-  },
-  "objetos-aprendizagem/obj1.md": {
-    "obj1.html": "9fcc5278"
-  },
-  "objetos-aprendizagem/obj1.qmd": {
-    "obj1.html": "23aa42dc"
-  },
-  "metodologias-ativas-listagem.qmd": {
-    "metodologias-ativas-listagem.html": "b7432894",
-    "metodologias-ativas-listagem.tex": "597400ea"
-  },
-  "casos/rubricas-circuitos-digitais-1.md": {
-    "rubricas-circuitos-digitais-1.html": "16233a29",
-    "rubricas-circuitos-digitais-1.tex": "0d840a06"
-  },
-  "casos/circuitos-digitais-1/rubricas-circuitos-digitais-1.md": {
-    "rubricas-circuitos-digitais-1.html": "e157ef09"
-  },
-  "casos/index.qmd": {
-    "index.html": "9f196494",
-    "index.tex": "40f51e73"
-  },
-  "metodologias-ativas/fishbow/fishbow.qmd": {
-    "fishbow.html": "75460b48"
-  },
-  "metodologias-ativas/snowball/snowball.qmd": {
-    "snowball.html": "1881db27"
+    "index.html": "ff6b39eb"
   },
   "metodologias-ativas/index.qmd": {
-    "index.html": "b56b2e25"
+    "index.html": "d0fd8680"
   },
-  "material.qmd": {
-    "material.html": "61cc38da"
-  },
-  "avaliacao/rubricas/rubricas.qmd": {
-    "rubricas.html": "793b4202"
-  },
-  "avaliacao/index.qmd": {
-    "index.html": "521623f3"
-  },
-  "avaliacao/rubricas/index.qmd": {
-    "index.html": "fa847238"
-  },
-  "avaliacao/rubricas.qmd": {
-    "rubricas.html": "c16e01a2"
+  "casos/index.qmd": {
+    "index.html": "41b9c34f"
   }
 }

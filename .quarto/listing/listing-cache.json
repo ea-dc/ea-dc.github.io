@@ -1,18 +1,12 @@
 {
   "listingMap": {
-    "casos/index.qmd": [
-      "."
+    "index.qmd": [
+      "acoes"
     ],
     "metodologias-ativas/index.qmd": [
       "."
     ],
-    "metodologias-ativas-listagem.qmd": [
-      "metodologias-ativas/*.qmd"
-    ],
-    "index.qmd": [
-      "acoes"
-    ],
-    "avaliacao/index.qmd": [
+    "casos/index.qmd": [
       "."
     ]
   }
