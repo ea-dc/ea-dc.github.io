@@ -16,11 +16,12 @@ website:
     position: above-navbar
     
   title: "Ensino e Aprendizagem no DC"
+  favicon: logo-dc.png
   reader-mode: true
   bread-crumbs: true
 
   page-footer: |
-        [Departamento de Computação](https://www.dc.ufscar.br){target="_blank"} - [UFSCar](https://www.ufscar.br){target="_blank"}
+    [Departamento de Computação](https://www.dc.ufscar.br){target="_blank"} - [UFSCar](https://www.ufscar.br){target="_blank"}
 
   navbar:
     logo: logo-dc.png
@@ -30,20 +31,21 @@ website:
       #   menu:
       #     - text: "Visão geral"
       #       href: metodologias-ativas/metodologias-ativas.qmd
-      - text: "Metodologias ativas"
-        href: metodologias-ativas/index.html
       - text: "Construção"
         href: construcao/index.html
+      - text: "Metodologias ativas"
+        href: metodologias-ativas/index.html
       - text: "Avaliação"
         href: avaliacao/index.html
-      - text: "Casos no DC"
-        href: casos/index.html
-      - material.qmd
+      - text: "Mais"
+        menu:
+          - casos/index.qmd
+          - material.qmd
       - sobre.qmd
 
 format:
   html:
-    fontsize: 14pt
+    # fontsize: 14pt
     theme:
       light: yeti
       dark: cyborg
