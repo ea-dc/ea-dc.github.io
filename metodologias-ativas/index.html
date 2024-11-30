@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<link href="../logo-dc.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-listing/list.min.js"></script>
 <script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
@@ -41,8 +42,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-43df0d6f53b733b42d37fa7808e17715.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-d0beed60e56b3fce8ed5c74393adeca0.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-f314ca1b9485413763fac1f78b0a11c0.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-0fa4afd31a9792bc529d9d93378a4908.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-7fc97ae1e0c16fffb1169d975b0b2999.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,20 +74,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-metodologias .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-metodologias'] = new List('listing-metodologias', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -157,25 +158,32 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="../metodologias-ativas/index.html" aria-current="page"> 
-<span class="menu-text">Metodologias ativas</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../construcao/index.html"> 
 <span class="menu-text">Construção</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../metodologias-ativas/index.html" aria-current="page"> 
+<span class="menu-text">Metodologias ativas</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../avaliacao/index.html"> 
 <span class="menu-text">Avaliação</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../casos/index.html"> 
-<span class="menu-text">Casos no DC</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-mais" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Mais</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-mais">    
+        <li>
+    <a class="dropdown-item" href="../casos/index.html">
+ <span class="dropdown-text">Casos práticos</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../material.html"> 
-<span class="menu-text">Material</span></a>
+        <li>
+    <a class="dropdown-item" href="../material.html">
+ <span class="dropdown-text">Material</span></a>
   </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="../sobre.html"> 
 <span class="menu-text">Sobre nós</span></a>
@@ -199,7 +207,10 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categorias</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todos <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categorias</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todos <span class="quarto-category-count">(9)</span></div><div class="category" data-category="Q29vcGVyYSVDMyVBNyVDMyVBM28=">Cooperação <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGlzY3VzcyVDMyVBM28=">Discussão <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RW0lMjBncnVwbw==">Em grupo <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RXN0dWRvJTIwcHIlQzMlQTl2aW8=">Estudo prévio <span class="quarto-category-count">(1)</span></div></div><div class="quarto-margin-footer"><div class="margin-footer-item">
+<hr>
+<p><a href="../metodologias-ativas/categorias.html">O que são as categorias?</a></p>
+</div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -222,55 +233,205 @@ window.Quarto = {
 </header>
 
 
+<div class="columns">
+<div class="column" style="width:40%;">
+<p>As metodologias ativas são baseadas conceito de aprendizagem signtificativa, de forma que o aprendizado está vinculado a dar um significado (um sentido) para o conhecimento.</p>
+<p>Nesse modelo de ensino e aprendizagem, o professor se torna um tutor que conduz o processo, enquanto o aluno age como protagonista, ativamente participando de seu processo de aprendizagem.</p>
+</div><div class="column" style="width:5%;">
 
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+</div><div class="column" style="width:55%;">
+<div id="listing-metodologias" class="quarto-listing quarto-listing-container-default">
 <div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-metodologias-sort" class="form-select" aria-label="Ordenar por" onchange="window['quarto-listings']['listing-metodologias'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Ordenar por</option>
+       <option value="index" data-direction="asc">Padrão</option>
+         <option value="listing-title" data-direction="asc">
+          Título
+        </option>
+     </select>
+  </div>
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
       <input type="text" class="search form-control" placeholder="Filtro">
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1732716736007" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<div class="quarto-post image-right" data-index="0" data-categories="RW0lMjBncnVwbyUyQ0Nvb3BlcmElQzMlQTclQzMlQTNv" data-listing-file-modified-sort="1732805612250" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../metodologias-ativas/fishbow.html" class="no-external">Fishbow</a>
+<a href="../metodologias-ativas/ma-tbl.html" class="no-external">Aprendizagem baseada em equipes (ABE/TBL)</a>
 </h3>
 <div class="listing-subtitle">
-<a href="../metodologias-ativas/fishbow.html" class="no-external"></a>
+<a href="../metodologias-ativas/ma-tbl.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('RW0lMjBncnVwbw=='); return false;">
+Em grupo
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Q29vcGVyYSVDMyVBNyVDMyVBM28='); return false;">
+Cooperação
+</div>
 </div>
 <div class="listing-description">
-<a href="../metodologias-ativas/fishbow.html" class="no-external">O aquário é…</a>
+<a href="../metodologias-ativas/ma-tbl.html" class="no-external"></a>
 </div>
 </div>
 <div class="metadata">
-<p><a href="../metodologias-ativas/fishbow.html" class="no-external"></a></p><a href="../metodologias-ativas/fishbow.html" class="no-external">
-<div class="listing-author">
-Jander Moreira
-</div>
+<p><a href="../metodologias-ativas/ma-tbl.html" class="no-external"></a></p><a href="../metodologias-ativas/ma-tbl.html" class="no-external">
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1732716736007" data-listing-reading-time-sort="2" data-listing-word-count-sort="350">
+<div class="quarto-post image-right" data-index="1" data-categories="RW0lMjBncnVwbyUyQ0Rpc2N1c3MlQzMlQTNv" data-listing-file-modified-sort="1732805647663" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../metodologias-ativas/snowball.html" class="no-external">Snowball</a>
+<a href="../metodologias-ativas/ma-pbl.html" class="no-external">Aprendizagem baseada em problemas (ABP/PBL)</a>
 </h3>
 <div class="listing-subtitle">
-<a href="../metodologias-ativas/snowball.html" class="no-external"></a>
+<a href="../metodologias-ativas/ma-pbl.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('RW0lMjBncnVwbw=='); return false;">
+Em grupo
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('RGlzY3VzcyVDMyVBM28='); return false;">
+Discussão
+</div>
 </div>
 <div class="listing-description">
-<a href="../metodologias-ativas/snowball.html" class="no-external">Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those STOP…</a>
+<a href="../metodologias-ativas/ma-pbl.html" class="no-external"></a>
 </div>
 </div>
 <div class="metadata">
-<p><a href="../metodologias-ativas/snowball.html" class="no-external"></a></p><a href="../metodologias-ativas/snowball.html" class="no-external">
-<div class="listing-author">
-Edilson Kato
+<p><a href="../metodologias-ativas/ma-pbl.html" class="no-external"></a></p><a href="../metodologias-ativas/ma-pbl.html" class="no-external">
+</a>
 </div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="RXN0dWRvJTIwcHIlQzMlQTl2aW8lMkNEaXNjdXNzJUMzJUEzbw==" data-listing-file-modified-sort="1732805742750" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../metodologias-ativas/ma-aula-invertida.html" class="no-external">Sala de aula invertida</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../metodologias-ativas/ma-aula-invertida.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('RXN0dWRvJTIwcHIlQzMlQTl2aW8='); return false;">
+Estudo prévio
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('RGlzY3VzcyVDMyVBM28='); return false;">
+Discussão
+</div>
+</div>
+<div class="listing-description">
+<a href="../metodologias-ativas/ma-aula-invertida.html" class="no-external"></a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="../metodologias-ativas/ma-aula-invertida.html" class="no-external"></a></p><a href="../metodologias-ativas/ma-aula-invertida.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-file-modified-sort="1732716736007" data-listing-reading-time-sort="2" data-listing-word-count-sort="350">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../metodologias-ativas/ma-snowball.html" class="no-external">Snowball</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../metodologias-ativas/ma-snowball.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../metodologias-ativas/ma-snowball.html" class="no-external">Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those STOP…</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="../metodologias-ativas/ma-snowball.html" class="no-external"></a></p><a href="../metodologias-ativas/ma-snowball.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-listing-file-modified-sort="1732991797972">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../metodologias-ativas/ma-aula-invertida.html" class="no-external"></a>
+</h3>
+<div class="listing-subtitle">
+<a href="../metodologias-ativas/ma-aula-invertida.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../metodologias-ativas/ma-aula-invertida.html" class="no-external"></a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="../metodologias-ativas/ma-aula-invertida.html" class="no-external"></a></p><a href="../metodologias-ativas/ma-aula-invertida.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-listing-file-modified-sort="1732991798432">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../metodologias-ativas/ma-fishbowl.html" class="no-external"></a>
+</h3>
+<div class="listing-subtitle">
+<a href="../metodologias-ativas/ma-fishbowl.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../metodologias-ativas/ma-fishbowl.html" class="no-external"></a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="../metodologias-ativas/ma-fishbowl.html" class="no-external"></a></p><a href="../metodologias-ativas/ma-fishbowl.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-listing-file-modified-sort="1732991797484">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../metodologias-ativas/ma-pbl.html" class="no-external"></a>
+</h3>
+<div class="listing-subtitle">
+<a href="../metodologias-ativas/ma-pbl.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../metodologias-ativas/ma-pbl.html" class="no-external"></a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="../metodologias-ativas/ma-pbl.html" class="no-external"></a></p><a href="../metodologias-ativas/ma-pbl.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-listing-file-modified-sort="1732991797000">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../metodologias-ativas/ma-snowball.html" class="no-external"></a>
+</h3>
+<div class="listing-subtitle">
+<a href="../metodologias-ativas/ma-snowball.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../metodologias-ativas/ma-snowball.html" class="no-external"></a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="../metodologias-ativas/ma-snowball.html" class="no-external"></a></p><a href="../metodologias-ativas/ma-snowball.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="8" data-listing-file-modified-sort="1732991798944">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../metodologias-ativas/ma-tbl.html" class="no-external"></a>
+</h3>
+<div class="listing-subtitle">
+<a href="../metodologias-ativas/ma-tbl.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../metodologias-ativas/ma-tbl.html" class="no-external"></a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="../metodologias-ativas/ma-tbl.html" class="no-external"></a></p><a href="../metodologias-ativas/ma-tbl.html" class="no-external">
 </a>
 </div>
 </div>
@@ -278,7 +439,14 @@ Edilson Kato
 <div class="listing-no-matching d-none">
 Sem itens correspondentes
 </div>
-</div></main> <!-- /main -->
+</div>
+</div>
+</div>
+
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

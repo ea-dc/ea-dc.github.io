@@ -31,6 +31,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<link href="../logo-dc.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -98,25 +99,32 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../metodologias-ativas/index.html"> 
-<span class="menu-text">Metodologias ativas</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../construcao/index.html"> 
 <span class="menu-text">Construção</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../metodologias-ativas/index.html"> 
+<span class="menu-text">Metodologias ativas</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../avaliacao/index.html"> 
 <span class="menu-text">Avaliação</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../casos/index.html"> 
-<span class="menu-text">Casos no DC</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-mais" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Mais</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-mais">    
+        <li>
+    <a class="dropdown-item" href="../casos/index.html">
+ <span class="dropdown-text">Casos práticos</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../material.html"> 
-<span class="menu-text">Material</span></a>
+        <li>
+    <a class="dropdown-item" href="../material.html">
+ <span class="dropdown-text">Material</span></a>
   </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="../sobre.html"> 
 <span class="menu-text">Sobre nós</span></a>
@@ -147,7 +155,11 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Fishbow</h1>
-</div>
+  <div class="quarto-categories">
+    <div class="quarto-category">Em grupo</div>
+    <div class="quarto-category">Discussão</div>
+  </div>
+  </div>
 
 
 
@@ -408,7 +420,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/ea-dc\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

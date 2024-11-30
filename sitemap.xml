@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ea-dc.github.io/index.html</loc>
-    <lastmod>2024-11-27T19:37:48.311Z</lastmod>
+    <lastmod>2024-11-27T19:45:56.753Z</lastmod>
   </url>
   <url>
     <loc>https://ea-dc.github.io/construcao/competencias.html</loc>
@@ -10,23 +10,35 @@
   </url>
   <url>
     <loc>https://ea-dc.github.io/acoes/index.html</loc>
-    <lastmod>2024-11-27T19:21:31.792Z</lastmod>
+    <lastmod>2024-11-27T19:46:22.769Z</lastmod>
   </url>
   <url>
     <loc>https://ea-dc.github.io/metodologias-ativas/index.html</loc>
-    <lastmod>2024-11-27T17:53:59.259Z</lastmod>
+    <lastmod>2024-11-28T15:22:37.143Z</lastmod>
   </url>
   <url>
-    <loc>https://ea-dc.github.io/metodologias-ativas/snowball.html</loc>
+    <loc>https://ea-dc.github.io/metodologias-ativas/ma-tbl.html</loc>
+    <lastmod>2024-11-28T14:53:32.250Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ea-dc.github.io/metodologias-ativas/ma-aula-invertida.html</loc>
+    <lastmod>2024-11-28T14:55:42.750Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ea-dc.github.io/metodologias-ativas/ma-snowball.html</loc>
     <lastmod>2024-11-27T14:12:16.007Z</lastmod>
   </url>
   <url>
     <loc>https://ea-dc.github.io/casos/index.html</loc>
-    <lastmod>2024-11-27T17:53:59.259Z</lastmod>
+    <lastmod>2024-11-27T20:23:31.510Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ea-dc.github.io/casos/rubricas-circuitos-digitais-1 copy.html</loc>
+    <lastmod>2024-11-27T19:57:51.887Z</lastmod>
   </url>
   <url>
     <loc>https://ea-dc.github.io/sobre.html</loc>
-    <lastmod>2024-11-27T14:12:16.007Z</lastmod>
+    <lastmod>2024-11-27T20:15:28.081Z</lastmod>
   </url>
   <url>
     <loc>https://ea-dc.github.io/avaliacao/index.html</loc>
@@ -41,6 +53,10 @@
     <lastmod>2024-11-27T14:12:16.007Z</lastmod>
   </url>
   <url>
+    <loc>https://ea-dc.github.io/casos/rubricas-circuitos-digitais-1 copy 2.html</loc>
+    <lastmod>2024-11-27T19:57:53.367Z</lastmod>
+  </url>
+  <url>
     <loc>https://ea-dc.github.io/casos/rubricas-circuitos-digitais-1.html</loc>
     <lastmod>2024-11-27T15:02:23.285Z</lastmod>
   </url>
@@ -49,12 +65,16 @@
     <lastmod>2024-11-27T14:12:16.007Z</lastmod>
   </url>
   <url>
-    <loc>https://ea-dc.github.io/metodologias-ativas/fishbow.html</loc>
-    <lastmod>2024-11-27T14:12:16.007Z</lastmod>
+    <loc>https://ea-dc.github.io/metodologias-ativas/ma-pbl.html</loc>
+    <lastmod>2024-11-28T14:54:07.663Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ea-dc.github.io/metodologias-ativas/categorias.html</loc>
+    <lastmod>2024-11-28T15:16:22.356Z</lastmod>
   </url>
   <url>
     <loc>https://ea-dc.github.io/acoes/2025-01-curso-metaa.html</loc>
-    <lastmod>2024-11-27T19:13:10.679Z</lastmod>
+    <lastmod>2024-11-27T19:47:52.689Z</lastmod>
   </url>
   <url>
     <loc>https://ea-dc.github.io/competencias.html</loc>
