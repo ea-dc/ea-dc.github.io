@@ -6,9 +6,23 @@
     ]
   },
   {
+    "listing": "/casos/index.html",
+    "items": [
+      "/casos/rubricas-circuitos-digitais-1 copy 2.html",
+      "/casos/rubricas-circuitos-digitais-1 copy.html",
+      "/casos/rubricas-circuitos-digitais-1.html"
+    ]
+  },
+  {
     "listing": "/acoes/index.html",
     "items": [
       "/acoes/2025-01-curso-metaa.html"
+    ]
+  },
+  {
+    "listing": "/construcao/index.html",
+    "items": [
+      "/construcao/competencias.html"
     ]
   },
   {
@@ -21,23 +35,9 @@
     ]
   },
   {
-    "listing": "/casos/index.html",
-    "items": [
-      "/casos/rubricas-circuitos-digitais-1 copy 2.html",
-      "/casos/rubricas-circuitos-digitais-1 copy.html",
-      "/casos/rubricas-circuitos-digitais-1.html"
-    ]
-  },
-  {
     "listing": "/avaliacao/index.html",
     "items": [
       "/avaliacao/rubricas.html"
-    ]
-  },
-  {
-    "listing": "/construcao/index.html",
-    "items": [
-      "/construcao/competencias.html"
     ]
   }
 ]
