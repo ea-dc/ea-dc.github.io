@@ -1,5 +1,5 @@
 ---
-title: "Casos"
+title: "Casos práticos"
 listing:
     contents: .
     sort: title

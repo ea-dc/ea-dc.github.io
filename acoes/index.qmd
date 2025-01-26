@@ -3,11 +3,11 @@ title: "Todas as ações realizadas"
 listing:
     contents: .
     sort: date
-    type: table
+    type: default
     categories: true
-    sort-ui: false
+    sort-ui: true
     filter-ui: true
-    fields: [title, author, description, date]
+    fields: [title, author, description, date, categories]
 page-layout: full
 title-block-bannerrR: false
 ---

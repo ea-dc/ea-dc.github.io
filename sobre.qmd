@@ -1,5 +1,8 @@
 ---
 title: "Sobre nós"
+about:
+  template: solana
+  image: logo-dc.png
 ---
 
 About this site

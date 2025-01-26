@@ -1,0 +1,8 @@
+---
+title: "Categorias das metodologias ativas"
+---
+
+| Categoria | Classe | Significado |
+| :-------- | :----------| :----------|
+| Turmas grandes | Público | Aplicável a turmas grandes com divisão em equipes. |
+| Colaboração | Infraestrutura | Requer sala com mesas e cadeiras móveis para promover a interação |

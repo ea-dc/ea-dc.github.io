@@ -1,14 +1,37 @@
 ---
 title: "Metodologias ativas"
 listing:
-    contents: .
+    id: metodologias
+    contents: ./ma-*
+    # max-description-length: 100
     sort: title
     type: default
     categories: true
-    sort-ui: false
+    sort-ui: true
     filter-ui: true
-    fields: [title, author, description]
+    fields: [title, description, categories]
 page-layout: full
 title-block-bannerrR: false
+margin-footer: |
+    ---
+
+    [O que são as categorias?](categorias.qmd)
 ---
 
+:::::: {.columns}
+
+::: {.column width="40%"}
+As metodologias ativas são baseadas conceito de aprendizagem signtificativa, de forma que o aprendizado está vinculado a dar um significado (um sentido) para o conhecimento.
+
+Nesse modelo de ensino e aprendizagem, o professor se torna um tutor que conduz o processo, enquanto o aluno age como protagonista, ativamente participando de seu processo de aprendizagem.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+::: {#metodologias}
+:::
+:::
+
+::::::

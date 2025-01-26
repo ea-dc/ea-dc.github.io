@@ -15,7 +15,6 @@ page-layout: full
 title-block-bannerrR: false
 ---
 
-
 :::: {.columns}
 
 ::: {.column width="50%"}

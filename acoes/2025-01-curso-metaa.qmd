@@ -4,9 +4,9 @@ author:
     - Jander
     - Auri
 categories:
-    - Palestra
-    - Objetivos educacionais
-    - Taxonomia de Bloom
+    - "Palestra"
+    - "Objetivos educacionais"
+    - "Taxonomia de Bloom"
 date: 2025-01-20
 ---
 

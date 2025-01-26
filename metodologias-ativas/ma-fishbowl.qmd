@@ -1,0 +1,9 @@
+---
+title: "Fishbowl"
+draft: true
+categories:
+    - Em grupo
+    - Discussão
+---
+
+O aquário é...
