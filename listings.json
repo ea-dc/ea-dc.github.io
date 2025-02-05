@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/avaliacao/index.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/acoes/2025-01-curso-metaa.html"
@@ -8,8 +12,6 @@
   {
     "listing": "/casos/index.html",
     "items": [
-      "/casos/rubricas-circuitos-digitais-1 copy 2.html",
-      "/casos/rubricas-circuitos-digitais-1 copy.html",
       "/casos/rubricas-circuitos-digitais-1.html"
     ]
   },
@@ -32,12 +34,6 @@
       "/metodologias-ativas/ma-pbl.html",
       "/metodologias-ativas/ma-aula-invertida.html",
       "/metodologias-ativas/ma-snowball.html"
-    ]
-  },
-  {
-    "listing": "/avaliacao/index.html",
-    "items": [
-      "/avaliacao/rubricas.html"
     ]
   }
 ]

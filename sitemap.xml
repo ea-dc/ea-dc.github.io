@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ea-dc.github.io/avaliacao/rubricas.html</loc>
-    <lastmod>2024-11-27T17:34:09.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ea-dc.github.io/competencias.html</loc>
-    <lastmod>2024-11-27T14:12:16.000Z</lastmod>
+    <loc>https://ea-dc.github.io/avaliacao/index.html</loc>
+    <lastmod>2024-11-27T15:28:36.000Z</lastmod>
   </url>
   <url>
     <loc>https://ea-dc.github.io/metodologias-ativas/ma-tbl.html</loc>
@@ -26,19 +22,15 @@
   </url>
   <url>
     <loc>https://ea-dc.github.io/index.html</loc>
-    <lastmod>2024-11-27T19:45:56.000Z</lastmod>
+    <lastmod>2025-02-05T19:27:34.487Z</lastmod>
   </url>
   <url>
     <loc>https://ea-dc.github.io/casos/index.html</loc>
     <lastmod>2024-11-27T20:23:31.000Z</lastmod>
   </url>
   <url>
-    <loc>https://ea-dc.github.io/casos/rubricas-circuitos-digitais-1 copy 2.html</loc>
-    <lastmod>2024-11-27T19:57:53.000Z</lastmod>
-  </url>
-  <url>
     <loc>https://ea-dc.github.io/acoes/2025-01-curso-metaa.html</loc>
-    <lastmod>2024-11-27T19:47:52.000Z</lastmod>
+    <lastmod>2025-02-05T19:32:05.924Z</lastmod>
   </url>
   <url>
     <loc>https://ea-dc.github.io/acoes/index.html</loc>
@@ -47,10 +39,6 @@
   <url>
     <loc>https://ea-dc.github.io/sobre.html</loc>
     <lastmod>2024-11-27T20:15:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ea-dc.github.io/casos/rubricas-circuitos-digitais-1 copy.html</loc>
-    <lastmod>2024-11-27T19:57:51.000Z</lastmod>
   </url>
   <url>
     <loc>https://ea-dc.github.io/casos/rubricas-circuitos-digitais-1.html</loc>
@@ -79,9 +67,5 @@
   <url>
     <loc>https://ea-dc.github.io/objetos-educacionais.html</loc>
     <lastmod>2024-11-27T14:12:16.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ea-dc.github.io/avaliacao/index.html</loc>
-    <lastmod>2024-11-27T15:28:36.000Z</lastmod>
   </url>
 </urlset>

@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "avaliacao/rubricas.html",
-    "href": "avaliacao/rubricas.html",
-    "title": "Rubricas",
+    "objectID": "avaliacao/index.html",
+    "href": "avaliacao/index.html",
+    "title": "Avaliação",
     "section": "",
-    "text": "Rubricas são thing to links between pages in your site, you can provide."
-  },
-  {
-    "objectID": "competencias.html",
-    "href": "competencias.html",
-    "title": "Competências",
-    "section": "",
-    "text": "Competências"
+    "text": "Instrumentos de avaliação.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTítulo\n\n\nDescrição\n\n\nCategorias\n\n\n\n\n\n\n\nSem itens correspondentes"
   },
   {
     "objectID": "metodologias-ativas/categorias.html",
@@ -32,35 +25,56 @@
     "href": "index.html",
     "title": "Ensino e Aprendizagem no DC",
     "section": "",
-    "text": "Este site é dedicado ao planejamento do ensino e aprendizagem no DC!\nEste grupo iniciou seus trabalhos no início de 2025.\n\n\n\nO que acontece por aqui?\n\n\n\n\n\nCurso do MetAA\n\n\n\n\n\n\n\n\n\n\n\n20 de jan. de 2025\n\n\nJander , Auri\n\n\n\n\n\n\nSem itens correspondentes\n\n\nTodas as ações do grupo!"
+    "text": "Este site é dedicado ao planejamento do ensino e aprendizagem no DC!\nNo final de 2024 um grupo de docentes do Departamento de Computação se uniu para discutir, tão amplamente quanto possível, as relações entre o ensino e a aprendizagem para os cursos de Ciência da Computação e Engenharia de Computação.\nNo início de 2025 se iniciaram os trabalhos.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n26 de mar. de 2025\n\n\nDaniel Lucrédio, Edilson Kato, Jander Moreira, Fredy Valente\n\n\n\n\n\n\nSem itens correspondentes\n\n\nTodas as ações do grupo!"
+  },
+  {
+    "objectID": "index.html#o-que-é-este-site",
+    "href": "index.html#o-que-é-este-site",
+    "title": "Ensino e Aprendizagem no DC",
+    "section": "",
+    "text": "Este site é dedicado ao planejamento do ensino e aprendizagem no DC!\nNo final de 2024 um grupo de docentes do Departamento de Computação se uniu para discutir, tão amplamente quanto possível, as relações entre o ensino e a aprendizagem para os cursos de Ciência da Computação e Engenharia de Computação.\nNo início de 2025 se iniciaram os trabalhos."
+  },
+  {
+    "objectID": "index.html#o-que-acontece-por-aqui",
+    "href": "index.html#o-que-acontece-por-aqui",
+    "title": "Ensino e Aprendizagem no DC",
+    "section": "",
+    "text": "26 de mar. de 2025\n\n\nDaniel Lucrédio, Edilson Kato, Jander Moreira, Fredy Valente\n\n\n\n\n\n\nSem itens correspondentes\n\n\nTodas as ações do grupo!"
   },
   {
     "objectID": "casos/index.html",
     "href": "casos/index.html",
     "title": "Casos práticos",
     "section": "",
-    "text": "Seguem exemplos de uso do material deste site aplicado a disciplinas e aos próprios projetos pedagógicos.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nCircuitos Digitais 1\n\n\n\n\n\n\n\n\n\n\n\nKato\n\n\n\n\n\n\n\nCircuitos Digitais 1\n\n\n\n\n\n\n\n\n\n\n\nKato\n\n\n\n\n\n\n\nCircuitos Digitais 1\n\n\n\n\n\n\n\n\n\n\n\nKato\n\n\n\n\n\n\nSem itens correspondentes"
-  },
-  {
-    "objectID": "casos/rubricas-circuitos-digitais-1 copy 2.html",
-    "href": "casos/rubricas-circuitos-digitais-1 copy 2.html",
-    "title": "Circuitos Digitais 1",
-    "section": "",
-    "text": "Uso de rubricas"
+    "text": "Seguem exemplos de uso do material deste site aplicado a disciplinas e aos próprios projetos pedagógicos.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nCircuitos Digitais 1\n\n\n\n\n\n\n\n\n\n\n\nKato\n\n\n\n\n\n\nSem itens correspondentes"
   },
   {
     "objectID": "acoes/2025-01-curso-metaa.html",
     "href": "acoes/2025-01-curso-metaa.html",
-    "title": "Curso do MetAA",
+    "title": "Palestra: Apresentação do grupo e visão geral de metodologias ativas",
     "section": "",
-    "text": "curso do metaa."
+    "text": "Esta é a primeira palestra do grupo EADC, que se apresenta para os demais docentes do DC."
+  },
+  {
+    "objectID": "acoes/2025-01-curso-metaa.html#apresentação-do-grupo-eadc",
+    "href": "acoes/2025-01-curso-metaa.html#apresentação-do-grupo-eadc",
+    "title": "Palestra: Apresentação do grupo e visão geral de metodologias ativas",
+    "section": "",
+    "text": "Esta é a primeira palestra do grupo EADC, que se apresenta para os demais docentes do DC."
+  },
+  {
+    "objectID": "acoes/2025-01-curso-metaa.html#metodologias-ativas",
+    "href": "acoes/2025-01-curso-metaa.html#metodologias-ativas",
+    "title": "Palestra: Apresentação do grupo e visão geral de metodologias ativas",
+    "section": "Metodologias ativas",
+    "text": "Metodologias ativas\nComo parte da apresentação inicial do grupo, uma visão geral sobre metodologias ativas de ensino é também abordada."
   },
   {
     "objectID": "acoes/index.html",
     "href": "acoes/index.html",
     "title": "Todas as ações realizadas",
     "section": "",
-    "text": "Seguem exemplos de uso do material deste site aplicado a disciplinas e aos próprios projetos pedagógicos.\n\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Padrão\n         \n          Título\n        \n         \n          Data - Mais antigo\n        \n         \n          Data - O mais novo\n        \n         \n          Autor\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nCurso do MetAA\n\n\n\n\n\n\nPalestra\n\n\nObjetivos educacionais\n\n\nTaxonomia de Bloom\n\n\n\n\n\n\n\n\n\n20 de jan. de 2025\n\n\nJander , Auri\n\n\n\n\n\n\nSem itens correspondentes"
+    "text": "Seguem exemplos de uso do material deste site aplicado a disciplinas e aos próprios projetos pedagógicos.\n\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Padrão\n         \n          Título\n        \n         \n          Data - Mais antigo\n        \n         \n          Data - O mais novo\n        \n         \n          Autor\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nPalestra: Apresentação do grupo e visão geral de metodologias ativas\n\n\n\n\n\n\nPalestra\n\n\nGrupo EADC\n\n\nMetodologias ativas\n\n\n\n\n\n\n\n\n\n26 de mar. de 2025\n\n\nDaniel Lucrédio, Edilson Kato, Jander Moreira, Fredy Valente\n\n\n\n\n\n\nSem itens correspondentes"
   },
   {
     "objectID": "sobre.html",
@@ -68,13 +82,6 @@
     "title": "Sobre nós",
     "section": "",
     "text": "About this site"
-  },
-  {
-    "objectID": "casos/rubricas-circuitos-digitais-1 copy.html",
-    "href": "casos/rubricas-circuitos-digitais-1 copy.html",
-    "title": "Circuitos Digitais 1",
-    "section": "",
-    "text": "Uso de rubricas"
   },
   {
     "objectID": "casos/rubricas-circuitos-digitais-1.html",
@@ -117,12 +124,5 @@
     "title": "Objetos educacionais",
     "section": "",
     "text": "Ou objetos de aprendizagem"
-  },
-  {
-    "objectID": "avaliacao/index.html",
-    "href": "avaliacao/index.html",
-    "title": "Avaliação",
-    "section": "",
-    "text": "Instrumentos de avaliação.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTítulo\n\n\nDescrição\n\n\nCategorias\n\n\n\n\n\n\nRubricas\n\n\n\n\n\nProvas, Programas, Trabalhos em grupo, Seminários\n\n\n\n\n\nSem itens correspondentes"
   }
 ]
