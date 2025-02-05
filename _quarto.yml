@@ -11,7 +11,7 @@ website:
   announcement: 
     icon: exclamation-octagon
     dismissable: false
-    content: "**Atenção** - Este site é apenas um protótipo/estudo de conceito. Não há informações relevantes aqui!"
+    content: "**Atenção** - Este site é apenas um protótipo/estudo de conceito. Não há informações relevantes aqui! Ainda..."
     type: danger
     position: above-navbar
     
@@ -31,16 +31,16 @@ website:
       #   menu:
       #     - text: "Visão geral"
       #       href: metodologias-ativas/metodologias-ativas.qmd
-      - text: "Construção"
-        href: construcao/index.html
-      - text: "Metodologias ativas"
-        href: metodologias-ativas/index.html
-      - text: "Avaliação"
-        href: avaliacao/index.html
-      - text: "Mais"
-        menu:
-          - casos/index.qmd
-          - material.qmd
+      # - text: "Construção"
+      #   href: construcao/index.html
+      # - text: "Metodologias ativas"
+      #   href: metodologias-ativas/index.html
+      # - text: "Avaliação"
+      #   href: avaliacao/index.html
+      # - text: "Mais"
+      #   menu:
+      #     - casos/index.qmd
+      #     - material.qmd
       - sobre.qmd
 
 format:

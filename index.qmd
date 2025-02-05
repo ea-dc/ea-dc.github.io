@@ -18,9 +18,13 @@ title-block-bannerrR: false
 :::: {.columns}
 
 ::: {.column width="50%"}
+## O que é este site?
+
 Este site é dedicado ao planejamento do ensino e aprendizagem no DC!
 
-Este grupo iniciou seus trabalhos no início de 2025.
+No final de 2024 um grupo de docentes do [Departamento de Computação](http://www.dc.ufscar.br) se uniu para discutir, tão amplamente quanto possível, as relações entre o ensino e a aprendizagem para os cursos de [Ciência da Computação](https://www.dc.ufscar.br/gradua%C3%A7%C3%A3o/ci%C3%AAncia-da-computa%C3%A7%C3%A3o) e [Engenharia de Computação](https://www.ec.ufscar.br/).
+
+No início de 2025 se iniciaram os trabalhos.
 :::
 
 ::: {.column width="5%"}
@@ -28,7 +32,7 @@ Este grupo iniciou seus trabalhos no início de 2025.
 
 
 ::: {.column width="35%"}
-**O que acontece por aqui?**
+## O que acontece por aqui?
 
 ::: {#acoes}
 :::
