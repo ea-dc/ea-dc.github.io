@@ -1,0 +1,29 @@
+---
+title: "CAP: Caça ao tesouro - Execução sequencial"
+author: Jander Moreira
+date: 2025-04-02
+date-modified: 2025-05-02
+categories: 2025-03-20
+    - "Gamificação"
+    - "Caça ao tesouro"
+    # - "Sucesso"  # "Fracasso", "Pode memlhorar"
+---
+
+<!-- Descrição básica a ser incluída na lista de casos -->
+Aplicação de uma variação da _Caça ao tesouro_ para ilustrar as características da execução sequencial de comandos em algoritmos.
+
+
+<!-- Apresentação do caso -->
+
+## Contexto
+O objetivo era dar contexto para a discussão dos seguinnes conceitos:
+
+* Execução sequencial de instruções
+* O início de uma instrução somente depois do término da anterior
+* Apresentação da necessidade de armazenamento de valores (variáveis)
+* Conceituação de entrada e saída de dados
+
+
+## Descrição
+
+## Considerações sobre os resultados

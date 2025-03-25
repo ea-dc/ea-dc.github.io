@@ -1,0 +1,28 @@
+---
+title: "<DISCIPLINA>: <TÍTULO>"
+author: <AUTOR>
+date: <DATA DE PUBLICACAO AAAA-MM-DD>
+categories:
+    - "<METODOLOGIA>"
+    - "<OUTROS>"
+    - "Sucesso"  # "Fracasso", "Pode memlhorar"
+---
+
+<!-- 
+Arquivos com nomes começados com '_' não são incluídos e podem ser usados como rascunhos.
+-->
+
+
+<!-- Descrição básica a ser incluída na lista de casos -->
+DESCRIÇÃO OBJETIVA CONTENDO: DISCIPLINA, OCASIÃO, METODOLOGIAS..
+
+<!-- Apresentação do caso -->
+
+## Contexto
+PARA QUE FOI USADA? QUAIS OS ASSUNTOS TRATADOS? QUAIS OS OBJETIVOS?
+
+## Descrição
+O QUE E COMO FOI FEITO?
+
+## Considerações sobre os resultados
+ANÁLISE REFLEXIVA SOBRE PONTOS POSITIVOS E NEGATIVOS

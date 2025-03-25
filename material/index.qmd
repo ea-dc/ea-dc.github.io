@@ -1,5 +1,5 @@
 ---
-title: "Casos práticos"
+title: "Material"
 listing:
     contents:
         - "*.qmd"
@@ -9,9 +9,14 @@ listing:
     categories: true
     sort-ui: false
     filter-ui: true
-    fields: [title, author, description, date]
+    fields: [title, author, description]
 page-layout: full
 title-block-bannerrR: false
 ---
  
 Seguem exemplos de uso do material deste site aplicado a disciplinas e aos próprios projetos pedagógicos.
+
+Uma coletânea dos materiais usados neste site pode ser vista no 
+[Google Drive](https://drive.google.com/drive/folders/1ByWVlqV2BBQB617rbv_C6JakMTT1vQkm?usp=drive_link){target="_blank"}
+
+

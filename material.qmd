@@ -1,6 +1,0 @@
----
-title: Material
----
-
-Uma coletânea dos materiais usados neste site pode ser vista no 
-[Google Drive](https://drive.google.com/drive/folders/1ByWVlqV2BBQB617rbv_C6JakMTT1vQkm?usp=drive_link){target="_blank"}

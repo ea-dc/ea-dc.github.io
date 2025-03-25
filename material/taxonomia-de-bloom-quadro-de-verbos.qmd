@@ -1,0 +1,16 @@
+---
+title: "Taxonomia de Bloom: Quadro de verbos"
+author: Jander Moreira
+date: 2025-03-25
+categories:
+    - "Taxonomia de Bloom"
+---
+
+<!-- 
+Arquivos com nomes começados com '_' não são incluídos e podem ser usados como rascunhos.
+-->
+
+Verbos da Taxonomia de Bloom.
+
+![Verbos da Taxonomia de Bloom](taxonomia-de-bloom-verbos.png)
+

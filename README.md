@@ -7,6 +7,14 @@ Site sobre Ensino e Aprendizagem no Departamento de Computação
 ## Orientações para edição
 
 
+### Obtenção dos arquivos
+
+Faça uma cópia local deste repositório:
+
+```
+git clone 
+```
+
 ### Edição do conteúdo
 
 O conteúdo geral e aspecto visual do site é feito no arquivo `_quarto.yml`, que segue o formato YAML.

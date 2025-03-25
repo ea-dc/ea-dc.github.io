@@ -1,0 +1,14 @@
+---
+title: "<TÍTULO>"
+author: <AUTOR>
+date: <DATA DE PUBLICACAO AAAA-MM-DD>
+categories:
+    - "<METODOLOGIA>"
+    - "<OUTROS>"
+---
+
+<!-- 
+Arquivos com nomes começados com '_' não são incluídos e podem ser usados como rascunhos.
+-->
+
+
