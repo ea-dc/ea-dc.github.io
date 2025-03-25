@@ -14,39 +14,39 @@
     "text": "Categoria\nClasse\nSignificado\n\n\n\n\nTurmas grandes\nPúblico\nAplicável a turmas grandes com divisão em equipes.\n\n\nColaboração\nInfraestrutura\nRequer sala com mesas e cadeiras móveis para promover a interação"
   },
   {
-    "objectID": "construcao/competencias.html",
-    "href": "construcao/competencias.html",
-    "title": "Competências",
+    "objectID": "construcao/index.html",
+    "href": "construcao/index.html",
+    "title": "Construção",
     "section": "",
-    "text": "Competências!"
+    "text": "Material destinado a como organizar, planejar etc.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTítulo\n\n\nDescrição\n\n\n\n\n\n\nCompetências\n\n\n\n\n\n\n\n\nSem itens correspondentes"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ensino e Aprendizagem no DC",
+    "objectID": "material/taxonomia-de-bloom-quadro-de-verbos.html",
+    "href": "material/taxonomia-de-bloom-quadro-de-verbos.html",
+    "title": "Taxonomia de Bloom: Quadro de verbos",
     "section": "",
-    "text": "Este site é dedicado ao planejamento do ensino e aprendizagem no DC!\nNo final de 2024 um grupo de docentes do Departamento de Computação se uniu para discutir, tão amplamente quanto possível, as relações entre o ensino e a aprendizagem para os cursos de Ciência da Computação e Engenharia de Computação.\nNo início de 2025 se iniciaram os trabalhos.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n26 de mar. de 2025\n\n\nDaniel Lucrédio, Edilson Kato, Jander Moreira, Fredy Valente\n\n\n\n\n\n\nSem itens correspondentes\n\n\nTodas as ações do grupo!"
-  },
-  {
-    "objectID": "index.html#o-que-é-este-site",
-    "href": "index.html#o-que-é-este-site",
-    "title": "Ensino e Aprendizagem no DC",
-    "section": "",
-    "text": "Este site é dedicado ao planejamento do ensino e aprendizagem no DC!\nNo final de 2024 um grupo de docentes do Departamento de Computação se uniu para discutir, tão amplamente quanto possível, as relações entre o ensino e a aprendizagem para os cursos de Ciência da Computação e Engenharia de Computação.\nNo início de 2025 se iniciaram os trabalhos."
-  },
-  {
-    "objectID": "index.html#o-que-acontece-por-aqui",
-    "href": "index.html#o-que-acontece-por-aqui",
-    "title": "Ensino e Aprendizagem no DC",
-    "section": "",
-    "text": "26 de mar. de 2025\n\n\nDaniel Lucrédio, Edilson Kato, Jander Moreira, Fredy Valente\n\n\n\n\n\n\nSem itens correspondentes\n\n\nTodas as ações do grupo!"
+    "text": "Verbos da Taxonomia de Bloom.\n\n\n\nVerbos da Taxonomia de Bloom"
   },
   {
     "objectID": "casos/index.html",
     "href": "casos/index.html",
     "title": "Casos práticos",
     "section": "",
-    "text": "Seguem exemplos de uso do material deste site aplicado a disciplinas e aos próprios projetos pedagógicos.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nCircuitos Digitais 1\n\n\n\n\n\n\n\n\n\n\n\nKato\n\n\n\n\n\n\nSem itens correspondentes"
+    "text": "Seguem exemplos de uso do material deste site aplicado a disciplinas e aos próprios projetos pedagógicos.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nCAP: Snowball em noções de computação\n\n\n\n\n\n\n\n\n\n\n\n31 de mar. de 2025\n\n\nJander Moreira\n\n\n\n\n\n\nSem itens correspondentes"
+  },
+  {
+    "objectID": "sobre.html",
+    "href": "sobre.html",
+    "title": "Sobre nós",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "acoes/index.html",
+    "href": "acoes/index.html",
+    "title": "Todas as ações realizadas",
+    "section": "",
+    "text": "Seguem exemplos de uso do material deste site aplicado a disciplinas e aos próprios projetos pedagógicos.\n\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Padrão\n         \n          Título\n        \n         \n          Data - Mais antigo\n        \n         \n          Data - O mais novo\n        \n         \n          Autor\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nPalestra: Apresentação do grupo e visão geral de metodologias ativas\n\n\n\n\n\n\nPalestra\n\n\nGrupo EADC\n\n\nMetodologias ativas\n\n\n\n\n\n\n\n\n\n26 de mar. de 2025\n\n\nDaniel Lucrédio, Edilson Kato, Jander Moreira, Fredy Valente\n\n\n\n\n\n\nSem itens correspondentes"
   },
   {
     "objectID": "acoes/2025-01-curso-metaa.html",
@@ -70,39 +70,67 @@
     "text": "Metodologias ativas\nComo parte da apresentação inicial do grupo, uma visão geral sobre metodologias ativas de ensino é também abordada."
   },
   {
-    "objectID": "acoes/index.html",
-    "href": "acoes/index.html",
-    "title": "Todas as ações realizadas",
+    "objectID": "casos/snowball-cap-nocoes-computacao.html",
+    "href": "casos/snowball-cap-nocoes-computacao.html",
+    "title": "CAP: Snowball em noções de computação",
     "section": "",
-    "text": "Seguem exemplos de uso do material deste site aplicado a disciplinas e aos próprios projetos pedagógicos.\n\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Padrão\n         \n          Título\n        \n         \n          Data - Mais antigo\n        \n         \n          Data - O mais novo\n        \n         \n          Autor\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nPalestra: Apresentação do grupo e visão geral de metodologias ativas\n\n\n\n\n\n\nPalestra\n\n\nGrupo EADC\n\n\nMetodologias ativas\n\n\n\n\n\n\n\n\n\n26 de mar. de 2025\n\n\nDaniel Lucrédio, Edilson Kato, Jander Moreira, Fredy Valente\n\n\n\n\n\n\nSem itens correspondentes"
+    "text": "A metodologia snowball foi aplicada para o ensino das noções de computação na primeira aula de CAP (31/3/2025)."
   },
   {
-    "objectID": "sobre.html",
-    "href": "sobre.html",
-    "title": "Sobre nós",
-    "section": "",
-    "text": "About this site"
+    "objectID": "casos/snowball-cap-nocoes-computacao.html#contexto",
+    "href": "casos/snowball-cap-nocoes-computacao.html#contexto",
+    "title": "CAP: Snowball em noções de computação",
+    "section": "Contexto",
+    "text": "Contexto\nO conteúdo envolveu, de forma introdutória, os conceitos:\n\nOrganização básica de computadores\nHardware e software\nSistemas operacionais\nLinguagens de programação\nAplicativos\n\nOs objetivos educacionais envolvem apenas a memorização e o entendimento dos conceitos básicos (níveis básicos da Taxonomia de Bloom)."
   },
   {
-    "objectID": "casos/rubricas-circuitos-digitais-1.html",
-    "href": "casos/rubricas-circuitos-digitais-1.html",
-    "title": "Circuitos Digitais 1",
-    "section": "",
-    "text": "Uso de rubricas"
+    "objectID": "casos/snowball-cap-nocoes-computacao.html#descrição",
+    "href": "casos/snowball-cap-nocoes-computacao.html#descrição",
+    "title": "CAP: Snowball em noções de computação",
+    "section": "Descrição",
+    "text": "Descrição"
   },
   {
-    "objectID": "construcao/index.html",
-    "href": "construcao/index.html",
-    "title": "Construção",
-    "section": "",
-    "text": "Material destinado a como organizar, planejar etc.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTítulo\n\n\nDescrição\n\n\n\n\n\n\nCompetências\n\n\n\n\n\n\n\n\nSem itens correspondentes"
+    "objectID": "casos/snowball-cap-nocoes-computacao.html#considerações-sobre-os-resultados",
+    "href": "casos/snowball-cap-nocoes-computacao.html#considerações-sobre-os-resultados",
+    "title": "CAP: Snowball em noções de computação",
+    "section": "Considerações sobre os resultados",
+    "text": "Considerações sobre os resultados"
   },
   {
-    "objectID": "material.html",
-    "href": "material.html",
+    "objectID": "material/index.html",
+    "href": "material/index.html",
     "title": "Material",
     "section": "",
-    "text": "Uma coletânea dos materiais usados neste site pode ser vista no Google Drive"
+    "text": "Seguem exemplos de uso do material deste site aplicado a disciplinas e aos próprios projetos pedagógicos.\nUma coletânea dos materiais usados neste site pode ser vista no Google Drive\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTaxonomia de Bloom: Quadro de verbos\n\n\n\n\n\n\n\n\n\n\n\nJander Moreira\n\n\n\n\n\n\nSem itens correspondentes"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ensino e Aprendizagem no DC",
+    "section": "",
+    "text": "Este site é dedicado ao planejamento do ensino e aprendizagem no DC!\nNo final de 2024 um grupo de docentes do Departamento de Computação se uniu para discutir, tão amplamente quanto possível, as relações entre o ensino e a aprendizagem para os cursos de Ciência da Computação e Engenharia de Computação.\nNo início de 2025 se iniciaram os trabalhos.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n26 de mar. de 2025\n\n\nDaniel Lucrédio, Edilson Kato, Jander Moreira, Fredy Valente\n\n\n\n\n\n\nSem itens correspondentes\n\n\nTodas as ações do grupo!"
+  },
+  {
+    "objectID": "index.html#o-que-é-este-site",
+    "href": "index.html#o-que-é-este-site",
+    "title": "Ensino e Aprendizagem no DC",
+    "section": "",
+    "text": "Este site é dedicado ao planejamento do ensino e aprendizagem no DC!\nNo final de 2024 um grupo de docentes do Departamento de Computação se uniu para discutir, tão amplamente quanto possível, as relações entre o ensino e a aprendizagem para os cursos de Ciência da Computação e Engenharia de Computação.\nNo início de 2025 se iniciaram os trabalhos."
+  },
+  {
+    "objectID": "index.html#o-que-acontece-por-aqui",
+    "href": "index.html#o-que-acontece-por-aqui",
+    "title": "Ensino e Aprendizagem no DC",
+    "section": "",
+    "text": "26 de mar. de 2025\n\n\nDaniel Lucrédio, Edilson Kato, Jander Moreira, Fredy Valente\n\n\n\n\n\n\nSem itens correspondentes\n\n\nTodas as ações do grupo!"
+  },
+  {
+    "objectID": "construcao/competencias.html",
+    "href": "construcao/competencias.html",
+    "title": "Competências",
+    "section": "",
+    "text": "Competências!"
   },
   {
     "objectID": "metodologias-ativas/ma-snowball.html",

@@ -4,15 +4,15 @@
     "items": []
   },
   {
-    "listing": "/index.html",
+    "listing": "/construcao/index.html",
     "items": [
-      "/acoes/2025-01-curso-metaa.html"
+      "/construcao/competencias.html"
     ]
   },
   {
     "listing": "/casos/index.html",
     "items": [
-      "/casos/rubricas-circuitos-digitais-1.html"
+      "/casos/snowball-cap-nocoes-computacao.html"
     ]
   },
   {
@@ -22,9 +22,15 @@
     ]
   },
   {
-    "listing": "/construcao/index.html",
+    "listing": "/material/index.html",
     "items": [
-      "/construcao/competencias.html"
+      "/material/taxonomia-de-bloom-quadro-de-verbos.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/acoes/2025-01-curso-metaa.html"
     ]
   },
   {
