@@ -11,7 +11,7 @@ website:
   announcement: 
     icon: exclamation-octagon
     dismissable: false
-    content: "**Atenção** - Este site é apenas um protótipo/estudo de conceito. Não há informações relevantes aqui! Ainda..."
+    content: "**Atenção** - Este site está sendo estruturado. Tenha paciência."
     type: danger
     position: above-navbar
     
@@ -37,10 +37,10 @@ website:
       #   href: metodologias-ativas/index.html
       # - text: "Avaliação"
       #   href: avaliacao/index.html
-      # - text: "Mais"
-      #   menu:
-      #     - casos/index.qmd
-      #     - material.qmd
+      # - text: "Casos"
+      #   href: casos/index.qmd
+      - text: "Material"
+        href: material/index.qmd
       - sobre.qmd
 
 format:
@@ -48,7 +48,7 @@ format:
     # fontsize: 14pt
     theme:
       light: yeti
-      dark: cyborg
+      dark: solar
 
     css: styles.css
     toc: true
