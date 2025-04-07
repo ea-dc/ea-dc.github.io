@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "relatos/index.html",
+    "href": "relatos/index.html",
+    "title": "Casos práticos",
+    "section": "",
+    "text": "Seguem exemplos de uso do material deste site aplicado a disciplinas e aos próprios projetos pedagógicos.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nCAP: Caça ao tesouro - Execução sequencial de instruções\n\n\n\n\n\n\n\n\n\n\n\n2 de abr. de 2025\n\n\nJander Moreira\n\n\n\n\n\n\nSem itens correspondentes"
+  },
+  {
     "objectID": "avaliacao/index.html",
     "href": "avaliacao/index.html",
     "title": "Avaliação",
@@ -26,13 +33,6 @@
     "title": "Taxonomia de Bloom: Quadro de verbos",
     "section": "",
     "text": "Verbos da Taxonomia de Bloom.\n\n\n\nVerbos da Taxonomia de Bloom"
-  },
-  {
-    "objectID": "casos/index.html",
-    "href": "casos/index.html",
-    "title": "Casos práticos",
-    "section": "",
-    "text": "Seguem exemplos de uso do material deste site aplicado a disciplinas e aos próprios projetos pedagógicos.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nCAP: Snowball em noções de computação\n\n\n\n\n\n\n\n\n\n\n\n31 de mar. de 2025\n\n\nJander Moreira\n\n\n\n\n\n\nSem itens correspondentes"
   },
   {
     "objectID": "sobre.html",
@@ -68,34 +68,6 @@
     "title": "Palestra: Apresentação do grupo e visão geral de metodologias ativas",
     "section": "Metodologias ativas",
     "text": "Metodologias ativas\nComo parte da apresentação inicial do grupo, uma visão geral sobre metodologias ativas de ensino é também abordada."
-  },
-  {
-    "objectID": "casos/snowball-cap-nocoes-computacao.html",
-    "href": "casos/snowball-cap-nocoes-computacao.html",
-    "title": "CAP: Snowball em noções de computação",
-    "section": "",
-    "text": "A metodologia snowball foi aplicada para o ensino das noções de computação na primeira aula de CAP (31/3/2025)."
-  },
-  {
-    "objectID": "casos/snowball-cap-nocoes-computacao.html#contexto",
-    "href": "casos/snowball-cap-nocoes-computacao.html#contexto",
-    "title": "CAP: Snowball em noções de computação",
-    "section": "Contexto",
-    "text": "Contexto\nO conteúdo envolveu, de forma introdutória, os conceitos:\n\nOrganização básica de computadores\nHardware e software\nSistemas operacionais\nLinguagens de programação\nAplicativos\n\nOs objetivos educacionais envolvem apenas a memorização e o entendimento dos conceitos básicos (níveis básicos da Taxonomia de Bloom)."
-  },
-  {
-    "objectID": "casos/snowball-cap-nocoes-computacao.html#descrição",
-    "href": "casos/snowball-cap-nocoes-computacao.html#descrição",
-    "title": "CAP: Snowball em noções de computação",
-    "section": "Descrição",
-    "text": "Descrição"
-  },
-  {
-    "objectID": "casos/snowball-cap-nocoes-computacao.html#considerações-sobre-os-resultados",
-    "href": "casos/snowball-cap-nocoes-computacao.html#considerações-sobre-os-resultados",
-    "title": "CAP: Snowball em noções de computação",
-    "section": "Considerações sobre os resultados",
-    "text": "Considerações sobre os resultados"
   },
   {
     "objectID": "material/index.html",
@@ -152,5 +124,33 @@
     "title": "Objetos educacionais",
     "section": "",
     "text": "Ou objetos de aprendizagem"
+  },
+  {
+    "objectID": "relatos/caca-ao-tesouro-cap-execucao-sequencial.html",
+    "href": "relatos/caca-ao-tesouro-cap-execucao-sequencial.html",
+    "title": "CAP: Caça ao tesouro - Execução sequencial de instruções",
+    "section": "",
+    "text": "Aplicação de uma variação da Caça ao tesouro para ilustrar as características da execução sequencial de instruções em algoritmos na aula de CAP (3/4/2025)."
+  },
+  {
+    "objectID": "relatos/caca-ao-tesouro-cap-execucao-sequencial.html#contexto",
+    "href": "relatos/caca-ao-tesouro-cap-execucao-sequencial.html#contexto",
+    "title": "CAP: Caça ao tesouro - Execução sequencial de instruções",
+    "section": "Contexto",
+    "text": "Contexto\nO objetivo era dar contexto para a discussão dos seguintes conceitos:\n\nExecução sequencial de instruções\nO início de uma instrução somente depois do término da anterior\nApresentação da necessidade de armazenamento de valores (variáveis)\nConceituação de entrada e saída de dados"
+  },
+  {
+    "objectID": "relatos/caca-ao-tesouro-cap-execucao-sequencial.html#descrição",
+    "href": "relatos/caca-ao-tesouro-cap-execucao-sequencial.html#descrição",
+    "title": "CAP: Caça ao tesouro - Execução sequencial de instruções",
+    "section": "Descrição",
+    "text": "Descrição\nDiferentemente de uma caça ao tesouro, na qual os alunos devem buscar por pistas, optou-se por uma “busca direcionada”, sendo que cada atividade que realizariam ocorreria em uma estação própria e com localização conhecida.\n\nOrganização do espaço\nForam criadas três estações de execução, sendo que em cada uma delas havia uma instrução a ser executada. Todas as estações foram localizadas dentro do laboratório de ensino (LE-4).\n\nEstações de execução de um algorito de três instruções.\n\n\n\n\n\n\nEstação\nAção\n\n\n\n\nA\nPrimeira instrução: entrada de dados (buscados na estação 1)\n\n\nB\nSegunda instrução: manipulação do dado de entrada\n\n\nC\nTerceira instrução: produção da saída (na estação 2)\n\n\n\nHavia, também, outras duas estações para obtenção dos dados e para a produção da saída.\n\nEstações de obtenção de dados e apresentação do resultado.\n\n\nEstação\nFunção\n\n\n\n\n1\nDados\n\n\n2\nSaída de dados (lousa)\n\n\n\nCada equipe foi identificada por um número e deveria, em cada estação, buscar pelas instruções e dados referentes à sua identificação.\n\n\nRealização da atividade pelos alunos\nOs alunos foram orientados a, em grupos pequenos (dois ou três componentes), se dirigirem às estações A, B e C, nesta ordem, com as seguintes orientações:\n\nDeveriam fazer a leitura da instrução e executá-la\nNão poderiam retornar à estação anterior\n\nIniciada a atividade, as equipes foram se locomovendo entre as estações e executando as instruções, o que levou pouco mais de 10 minutos para a conclusão.\nBônus: cada equipe, ao terminar, ganhou um ovinho de chocolate.\n\n\nEncerramento pelo professor\nQuando todas as equipes terminaram suas execuções, foram discutidos os aspectos relativos aos objetivos de aprendizagem da atividade, a saber:\n\nExecução das instruções na sequência correta, sob pena de resultados incorretos/incoerentes;\nEncerramento completo de uma instrução antes de iniciar a próxima;\nNecessidade de armazenamento do dado (referenciado pelo professor como variável) para lembrar dos valores entre as estações, não tendo havido orientação prévia sobre essa questão;\nConceito de obtenção de dados (estação 1) e apresentação de resultados (estação 2).\n\nO professor levantou alguns pontos e os alunos complemetaram com sua própria visão."
+  },
+  {
+    "objectID": "relatos/caca-ao-tesouro-cap-execucao-sequencial.html#considerações-sobre-os-resultados",
+    "href": "relatos/caca-ao-tesouro-cap-execucao-sequencial.html#considerações-sobre-os-resultados",
+    "title": "CAP: Caça ao tesouro - Execução sequencial de instruções",
+    "section": "Considerações sobre os resultados",
+    "text": "Considerações sobre os resultados\nA dinâmica não tomou muito do tempo de aula e os alunos se motivaram a realizar as instruções. O prêmio no final era desconhecido previamente e foi bem recebido.\nSegundo a percepção do professor, os conceitos, que ainda não tinham sido formalizados, foram entendidos e assimilados."
   }
 ]

@@ -8,7 +8,7 @@
 
 <meta name="author" content="Jander Moreira">
 
-<title>CAP: Caça ao tesouro - Execução sequencial – Ensino e Aprendizagem no DC</title>
+<title>CAP: Caça ao tesouro - Execução sequencial de instruções – Ensino e Aprendizagem no DC</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -98,17 +98,14 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-casos" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Casos</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-casos">    
-        <li>
-    <a class="dropdown-item" href="../casos/index.html">
- <span class="dropdown-text">Casos práticos</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="../material/index.html"> 
+<span class="menu-text">Material</span></a>
   </li>  
-    </ul>
-  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../relatos/index.html"> 
+<span class="menu-text">Relatos</span></a>
+  </li>  
   <li class="nav-item">
     <a class="nav-link" href="../sobre.html"> 
 <span class="menu-text">Sobre nós</span></a>
@@ -136,7 +133,12 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#contexto" id="toc-contexto" class="nav-link active" data-scroll-target="#contexto">Contexto</a></li>
-  <li><a href="#descrição" id="toc-descrição" class="nav-link" data-scroll-target="#descrição">Descrição</a></li>
+  <li><a href="#descrição" id="toc-descrição" class="nav-link" data-scroll-target="#descrição">Descrição</a>
+  <ul class="collapse">
+  <li><a href="#organização-do-espaço" id="toc-organização-do-espaço" class="nav-link" data-scroll-target="#organização-do-espaço">Organização do espaço</a></li>
+  <li><a href="#realização-da-atividade-pelos-alunos" id="toc-realização-da-atividade-pelos-alunos" class="nav-link" data-scroll-target="#realização-da-atividade-pelos-alunos">Realização da atividade pelos alunos</a></li>
+  <li><a href="#encerramento-pelo-professor" id="toc-encerramento-pelo-professor" class="nav-link" data-scroll-target="#encerramento-pelo-professor">Encerramento pelo professor</a></li>
+  </ul></li>
   <li><a href="#considerações-sobre-os-resultados" id="toc-considerações-sobre-os-resultados" class="nav-link" data-scroll-target="#considerações-sobre-os-resultados">Considerações sobre os resultados</a></li>
   </ul>
 </nav>
@@ -146,9 +148,10 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">CAP: Caça ao tesouro - Execução sequencial</h1>
+<h1 class="title">CAP: Caça ao tesouro - Execução sequencial de instruções</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">2025-03-20 - "Gamificação" - "Caça ao tesouro"</div>
+    <div class="quarto-category">Gamificação</div>
+    <div class="quarto-category">Caça ao tesouro</div>
   </div>
   </div>
 
@@ -170,12 +173,6 @@ ul.task-list li input[type="checkbox"] {
     </div>
   </div>
   
-    <div>
-    <div class="quarto-title-meta-heading">Data de Modificação</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date-modified">2 de maio de 2025</p>
-    </div>
-  </div>
     
   </div>
   
@@ -185,11 +182,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 <!-- Descrição básica a ser incluída na lista de casos -->
-<p>Aplicação de uma variação da <em>Caça ao tesouro</em> para ilustrar as características da execução sequencial de comandos em algoritmos.</p>
+<p>Aplicação de uma variação da <em>Caça ao tesouro</em> para ilustrar as características da execução sequencial de instruções em algoritmos na aula de CAP (3/4/2025).</p>
 <!-- Apresentação do caso -->
 <section id="contexto" class="level2">
 <h2 class="anchored" data-anchor-id="contexto">Contexto</h2>
-<p>O objetivo era dar contexto para a discussão dos seguinnes conceitos:</p>
+<p>O objetivo era dar contexto para a discussão dos seguintes conceitos:</p>
 <ul>
 <li>Execução sequencial de instruções</li>
 <li>O início de uma instrução somente depois do término da anterior</li>
@@ -199,9 +196,85 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="descrição" class="level2">
 <h2 class="anchored" data-anchor-id="descrição">Descrição</h2>
+<p>Diferentemente de uma caça ao tesouro, na qual os alunos devem buscar por pistas, optou-se por uma “busca direcionada”, sendo que cada atividade que realizariam ocorreria em uma estação própria e com localização conhecida.</p>
+<section id="organização-do-espaço" class="level3">
+<h3 class="anchored" data-anchor-id="organização-do-espaço">Organização do espaço</h3>
+<p>Foram criadas três estações de execução, sendo que em cada uma delas havia uma instrução a ser executada. Todas as estações foram localizadas dentro do laboratório de ensino (LE-4).</p>
+<table class="caption-top table">
+<caption>Estações de execução de um algorito de três instruções.</caption>
+<colgroup>
+<col style="width: 10%">
+<col style="width: 89%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Estação</th>
+<th style="text-align: left;">Ação</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">A</td>
+<td style="text-align: left;">Primeira instrução: entrada de dados (buscados na estação 1)</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">B</td>
+<td style="text-align: left;">Segunda instrução: manipulação do dado de entrada</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">C</td>
+<td style="text-align: left;">Terceira instrução: produção da saída (na estação 2)</td>
+</tr>
+</tbody>
+</table>
+<p>Havia, também, outras duas estações para obtenção dos dados e para a produção da saída.</p>
+<table class="caption-top table">
+<caption>Estações de obtenção de dados e apresentação do resultado.</caption>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Estação</th>
+<th style="text-align: left;">Função</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">1</td>
+<td style="text-align: left;">Dados</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">2</td>
+<td style="text-align: left;">Saída de dados (lousa)</td>
+</tr>
+</tbody>
+</table>
+<p>Cada equipe foi identificada por um número e deveria, em cada estação, buscar pelas instruções e dados referentes à sua identificação.</p>
+</section>
+<section id="realização-da-atividade-pelos-alunos" class="level3">
+<h3 class="anchored" data-anchor-id="realização-da-atividade-pelos-alunos">Realização da atividade pelos alunos</h3>
+<p>Os alunos foram orientados a, em grupos pequenos (dois ou três componentes), se dirigirem às estações A, B e C, nesta ordem, com as seguintes orientações:</p>
+<ul>
+<li>Deveriam fazer a leitura da instrução e executá-la</li>
+<li>Não poderiam retornar à estação anterior</li>
+</ul>
+<p>Iniciada a atividade, as equipes foram se locomovendo entre as estações e executando as instruções, o que levou pouco mais de 10 minutos para a conclusão.</p>
+<p><strong>Bônus</strong>: cada equipe, ao terminar, ganhou um ovinho de chocolate.</p>
+</section>
+<section id="encerramento-pelo-professor" class="level3">
+<h3 class="anchored" data-anchor-id="encerramento-pelo-professor">Encerramento pelo professor</h3>
+<p>Quando todas as equipes terminaram suas execuções, foram discutidos os aspectos relativos aos objetivos de aprendizagem da atividade, a saber:</p>
+<ul>
+<li>Execução das instruções na sequência correta, sob pena de resultados incorretos/incoerentes;</li>
+<li>Encerramento completo de uma instrução antes de iniciar a próxima;</li>
+<li>Necessidade de armazenamento do dado (referenciado pelo professor como variável) para lembrar dos valores entre as estações, não tendo havido orientação prévia sobre essa questão;</li>
+<li>Conceito de obtenção de dados (estação 1) e apresentação de resultados (estação 2).</li>
+</ul>
+<p>O professor levantou alguns pontos e os alunos complemetaram com sua própria visão.</p>
+</section>
 </section>
 <section id="considerações-sobre-os-resultados" class="level2">
 <h2 class="anchored" data-anchor-id="considerações-sobre-os-resultados">Considerações sobre os resultados</h2>
+<p>A dinâmica não tomou muito do tempo de aula e os alunos se motivaram a realizar as instruções. O prêmio no final era desconhecido previamente e foi bem recebido.</p>
+<p>Segundo a percepção do professor, os conceitos, que ainda não tinham sido formalizados, foram entendidos e assimilados.</p>
 
 
 </section>
@@ -441,7 +514,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/ea-dc\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

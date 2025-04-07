@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Jander Moreira">
 
-<title>Casos práticos – Ensino e Aprendizagem no DC</title>
+<title>CAP: Snowball em noções de computação – Ensino e Aprendizagem no DC</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,8 +32,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../logo-dc.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -71,65 +70,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Procurar"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-description','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -158,6 +99,10 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
+    <a class="nav-link" href="../casos/index.html"> 
+<span class="menu-text">Casos</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../material/index.html"> 
 <span class="menu-text">Material</span></a>
   </li>  
@@ -179,25 +124,53 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categorias</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todos <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U25vd2JhbGw=">Snowball <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Nesta página</h2>
+   
+  <ul>
+  <li><a href="#contexto" id="toc-contexto" class="nav-link active" data-scroll-target="#contexto">Contexto</a></li>
+  <li><a href="#descrição" id="toc-descrição" class="nav-link" data-scroll-target="#descrição">Descrição</a>
+  <ul class="collapse">
+  <li><a href="#etapas-da-snowball" id="toc-etapas-da-snowball" class="nav-link" data-scroll-target="#etapas-da-snowball">Etapas da <em>snowball</em></a></li>
+  <li><a href="#encerramento-da-atividade-em-aula" id="toc-encerramento-da-atividade-em-aula" class="nav-link" data-scroll-target="#encerramento-da-atividade-em-aula">Encerramento da atividade em aula</a></li>
+  <li><a href="#avaliação" id="toc-avaliação" class="nav-link" data-scroll-target="#avaliação">Avaliação</a></li>
+  </ul></li>
+  <li><a href="#considerações-sobre-os-resultados" id="toc-considerações-sobre-os-resultados" class="nav-link" data-scroll-target="#considerações-sobre-os-resultados">Considerações sobre os resultados</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Casos práticos</h1>
-</div>
+<h1 class="title">CAP: Snowball em noções de computação</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Snowball</div>
+  </div>
+  </div>
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Autor</div>
+    <div class="quarto-title-meta-contents">
+             <p>Jander Moreira </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Data</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">31 de março de 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -207,47 +180,84 @@ window.Quarto = {
 </header>
 
 
-<p>Seguem exemplos de uso do material deste site aplicado a disciplinas e aos próprios projetos pedagógicos.</p>
+<!-- Descrição básica a ser incluída na lista de casos -->
+<p>A metodologia <em>snowball</em> foi aplicada para o ensino das noções de computação na primeira aula de CAP (31/3/2025).</p>
+<!-- Apresentação do caso -->
+<section id="contexto" class="level2">
+<h2 class="anchored" data-anchor-id="contexto">Contexto</h2>
+<p>O conteúdo envolveu, de forma introdutória, os conceitos:</p>
+<ul>
+<li>Organização básica de computadores</li>
+<li>Hardware e software</li>
+<li>Sistemas operacionais</li>
+<li>Linguagens de programação</li>
+<li>Aplicativos</li>
+</ul>
+<p>Os objetivos educacionais envolvem apenas a memorização e o entendimento dos conceitos básicos (níveis básicos da Taxonomia de Bloom).</p>
+</section>
+<section id="descrição" class="level2">
+<h2 class="anchored" data-anchor-id="descrição">Descrição</h2>
+<p>A dinâmica foi planejada para uma aula de 100 minutos e foi dimensionada em três etapas. Devido à necessidade de formação de grupos, o Espaço Maker foi utilizado.</p>
+<section id="etapas-da-snowball" class="level3">
+<h3 class="anchored" data-anchor-id="etapas-da-snowball">Etapas da <em>snowball</em></h3>
+<p>Por questão de tempo, foram três etapas com cerca de 20 minutos cada uma.</p>
+<table class="caption-top table">
+<caption>Descrição geral das etapas do <em>snowball</em>.</caption>
+<colgroup>
+<col style="width: 4%">
+<col style="width: 95%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Etapa</th>
+<th style="text-align: left;">Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">1</td>
+<td style="text-align: left;">Elaboração dos conceitos propostos de forma individual e sem consulta.</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">2</td>
+<td style="text-align: left;">Revisão dos conceitos em duplas (houve um trio), podendo haver consulta online para complementar as informações</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">3</td>
+<td style="text-align: left;">Redação final da redação dos conceitos em grupos maiores (seis componentes em média)</td>
+</tr>
+</tbody>
+</table>
+<p>Em cada uma das etapas havia os seguintes momentos:</p>
+<ul>
+<li>O professor orientava sobre as ações da etapa;</li>
+<li>Os alunos se apresentavam uns aos outros (turma de calouros que pouco se conhecem);</li>
+<li>Realizavam a redação sobre os conceitos conforme as particularidades da etapa;</li>
+<li>Alguns alunos sorteados faziam a leitura de parte do material produzido por ele ou pelo grupo;</li>
+<li>O professor complementava e, eventualmente, corrigia algum conceito.</li>
+</ul>
+<p>A partir da segunda etapa, o professor passou a organizar as ideias e conceitos na lousa, de forma que havia um resumo completo no final.</p>
+</section>
+<section id="encerramento-da-atividade-em-aula" class="level3">
+<h3 class="anchored" data-anchor-id="encerramento-da-atividade-em-aula">Encerramento da atividade em aula</h3>
+<p>No final, o professor usou o material gerado na lousa para repassar os principais conceitos.</p>
+</section>
+<section id="avaliação" class="level3">
+<h3 class="anchored" data-anchor-id="avaliação">Avaliação</h3>
+<p>A a</p>
+</section>
+</section>
+<section id="considerações-sobre-os-resultados" class="level2">
+<h2 class="anchored" data-anchor-id="considerações-sobre-os-resultados">Considerações sobre os resultados</h2>
+<p>Como se tratava do primeiro dia de aula (duas aulas; quatro horas), a apresentação da disciplina foi feita na primeira parte e esta atividade na segunda, o que tornou menos cansativo ou entediante o início da disciplina.</p>
+<p>Com a etapa 1 começando com as experiências individuais, foi possível balancear a diferença de conhecimento entre os alunos, evitando exposições desnecessárias. No segundo momento, os alunos discutiram em duplas, complementando suas experiências pessoais e também obtendo mais informações online (que é uma competência importante). Na etapa 3 optou-se por reunir cada três duplas em uma nova equipe, o que levou a grupos maiores, mas também a um menor número total de grupos.</p>
+<p>Na avaliação visual do professor, os grupos maiores não causaram constrangimento de partipação individuais, pois todos já haviam se acostumado a se manifestar. Com um número menor de grupos, objetivou-se que todos pudessem contribuir para a redação final na lousa, não ficando ninguém de fora.</p>
+<p>Na avaliação da atividade, a visão geral foi positiva e os alunos acharam que houve uma boa construção do conhecimento. Poucas dificuldades foram relatadas, sendo elas pontuais.</p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="listing-actions-group">
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filtro">
-    </div>
-</div>
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="U25vd2JhbGw=" data-listing-date-sort="1743390000000" data-listing-file-modified-sort="1742491006827" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="75">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../casos/snowball-cap-nocoes-computacao.html" class="no-external">CAP: Snowball em noções de computação</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../casos/snowball-cap-nocoes-computacao.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="../casos/snowball-cap-nocoes-computacao.html" class="no-external">A metodologia <em>snowball</em> foi aplicada para o ensino das noções de computação na primeira aula de CAP (31/3/2025).</a>
-</div>
-</div>
-<div class="metadata">
-<a href="../casos/snowball-cap-nocoes-computacao.html" class="no-external">
-<div class="listing-date">
-31 de mar. de 2025
-</div>
-<div class="listing-author">
-Jander Moreira
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-Sem itens correspondentes
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -482,7 +492,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/ea-dc\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

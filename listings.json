@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/relatos/index.html",
+    "items": [
+      "/relatos/caca-ao-tesouro-cap-execucao-sequencial.html"
+    ]
+  },
+  {
     "listing": "/avaliacao/index.html",
     "items": []
   },
@@ -7,12 +13,6 @@
     "listing": "/construcao/index.html",
     "items": [
       "/construcao/competencias.html"
-    ]
-  },
-  {
-    "listing": "/casos/index.html",
-    "items": [
-      "/casos/snowball-cap-nocoes-computacao.html"
     ]
   },
   {
