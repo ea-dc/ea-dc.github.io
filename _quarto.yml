@@ -37,10 +37,10 @@ website:
       #   href: metodologias-ativas/index.html
       # - text: "Avaliação"
       #   href: avaliacao/index.html
-      # - text: "Casos"
-      #   href: casos/index.qmd
       - text: "Material"
         href: material/index.qmd
+      - text: "Relatos"
+        href: relatos/index.qmd
       - sobre.qmd
 
 format:

@@ -1,0 +1,79 @@
+---
+title: "CAP: Caça ao tesouro - Execução sequencial de instruções"
+author: Jander Moreira
+date: 2025-04-02
+# date-modified: 2025-05-02
+categories:
+    - "Gamificação"
+    - "Caça ao tesouro"
+    # - "Sucesso"  # "Fracasso", "Pode memlhorar"
+---
+
+<!-- Descrição básica a ser incluída na lista de casos -->
+Aplicação de uma variação da _Caça ao tesouro_ para ilustrar as características da execução sequencial de instruções em algoritmos na aula de CAP (3/4/2025).
+
+
+<!-- Apresentação do caso -->
+
+## Contexto
+O objetivo era dar contexto para a discussão dos seguintes conceitos:
+
+* Execução sequencial de instruções
+* O início de uma instrução somente depois do término da anterior
+* Apresentação da necessidade de armazenamento de valores (variáveis)
+* Conceituação de entrada e saída de dados
+
+
+## Descrição
+Diferentemente de uma caça ao tesouro, na qual os alunos devem buscar por pistas, optou-se por uma "busca direcionada", sendo que cada atividade que realizariam ocorreria em uma estação própria e com localização conhecida.
+
+### Organização do espaço
+
+Foram criadas três estações de execução, sendo que em cada uma delas havia uma instrução a ser executada. Todas as estações foram localizadas dentro do laboratório de ensino (LE-4).
+
+| Estação | Ação                                                         |
+| :-----: | :----------------------------------------------------------- |
+|    A    | Primeira instrução: entrada de dados (buscados na estação 1) |
+|    B    | Segunda instrução: manipulação do dado de entrada            |
+|    C    | Terceira instrução: produção da saída (na estação 2)         |
+
+: Estações de execução de um algorito de três instruções.
+
+Havia, também, outras duas estações para obtenção dos dados e para a produção da saída.
+
+| Estação | Função                 |
+| :-----: | :--------------------- |
+|    1    | Dados                  |
+|    2    | Saída de dados (lousa) |
+
+: Estações de obtenção de dados e apresentação do resultado.
+
+Cada equipe foi identificada por um número e deveria, em cada estação, buscar pelas instruções e dados referentes à sua identificação.
+
+### Realização da atividade pelos alunos
+
+Os alunos foram orientados a, em grupos pequenos (dois ou três componentes), se dirigirem às estações A, B e C, nesta ordem, com as seguintes orientações:
+
+* Deveriam fazer a leitura da instrução e executá-la
+* Não poderiam retornar à estação anterior
+
+Iniciada a atividade, as equipes foram se locomovendo entre as estações e executando as instruções, o que levou pouco mais de 10 minutos para a conclusão.
+
+**Bônus**: cada equipe, ao terminar, ganhou um ovinho de chocolate.
+
+### Encerramento pelo professor
+
+Quando todas as equipes terminaram suas execuções, foram discutidos os aspectos relativos aos objetivos de aprendizagem da atividade, a saber:
+
+* Execução das instruções na sequência correta, sob pena de resultados incorretos/incoerentes;
+* Encerramento completo de uma instrução antes de iniciar a próxima;
+* Necessidade de armazenamento do dado (referenciado pelo professor como variável) para lembrar dos valores entre as estações, não tendo havido orientação prévia sobre essa questão;
+* Conceito de obtenção de dados (estação 1) e apresentação de resultados (estação 2).
+
+O professor levantou alguns pontos e os alunos complemetaram com sua própria visão.
+
+## Considerações sobre os resultados
+
+A dinâmica não tomou muito do tempo de aula e os alunos se motivaram a realizar as instruções. O prêmio no final era desconhecido previamente e foi bem recebido.
+
+Segundo a percepção do professor, os conceitos, que ainda não tinham sido formalizados, foram entendidos e assimilados.
