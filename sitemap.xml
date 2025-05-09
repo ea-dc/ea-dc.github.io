@@ -2,62 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ea-dc.github.io/relatos/index.html</loc>
-    <lastmod>2025-03-20T17:14:43.141Z</lastmod>
+    <lastmod>2025-05-09T19:18:56.020Z</lastmod>
   </url>
   <url>
-    <loc>https://ea-dc.github.io/avaliacao/index.html</loc>
-    <lastmod>2024-11-27T15:28:36.000Z</lastmod>
+    <loc>https://ea-dc.github.io/relatos/caca-ao-tesouro-cap-execucao-sequencial.html</loc>
+    <lastmod>2025-04-07T14:21:23.275Z</lastmod>
   </url>
   <url>
-    <loc>https://ea-dc.github.io/metodologias-ativas/ma-tbl.html</loc>
-    <lastmod>2024-11-28T14:53:32.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ea-dc.github.io/metodologias-ativas/ma-pbl.html</loc>
-    <lastmod>2024-11-28T14:54:07.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ea-dc.github.io/metodologias-ativas/categorias.html</loc>
-    <lastmod>2024-11-28T15:16:22.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ea-dc.github.io/construcao/index.html</loc>
-    <lastmod>2024-11-27T17:52:56.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ea-dc.github.io/material/taxonomia-de-bloom-quadro-de-verbos.html</loc>
-    <lastmod>2025-03-25T17:24:36.146Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ea-dc.github.io/sobre.html</loc>
-    <lastmod>2024-11-27T20:15:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ea-dc.github.io/acoes/index.html</loc>
-    <lastmod>2024-11-27T19:46:22.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ea-dc.github.io/acoes/2025-01-curso-metaa.html</loc>
-    <lastmod>2025-02-05T19:32:05.924Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ea-dc.github.io/material/index.html</loc>
-    <lastmod>2025-03-25T17:15:18.130Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ea-dc.github.io/index.html</loc>
-    <lastmod>2025-02-05T19:27:34.487Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ea-dc.github.io/construcao/competencias.html</loc>
-    <lastmod>2024-11-27T17:50:08.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ea-dc.github.io/metodologias-ativas/ma-aula-invertida.html</loc>
-    <lastmod>2024-11-28T14:55:42.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ea-dc.github.io/metodologias-ativas/ma-snowball.html</loc>
+    <loc>https://ea-dc.github.io/objetos-educacionais.html</loc>
     <lastmod>2024-11-27T14:12:16.000Z</lastmod>
   </url>
   <url>
@@ -65,11 +17,63 @@
     <lastmod>2024-11-28T15:22:37.000Z</lastmod>
   </url>
   <url>
-    <loc>https://ea-dc.github.io/objetos-educacionais.html</loc>
+    <loc>https://ea-dc.github.io/metodologias-ativas/ma-snowball.html</loc>
     <lastmod>2024-11-27T14:12:16.000Z</lastmod>
   </url>
   <url>
-    <loc>https://ea-dc.github.io/relatos/caca-ao-tesouro-cap-execucao-sequencial.html</loc>
-    <lastmod>2025-04-07T14:21:23.275Z</lastmod>
+    <loc>https://ea-dc.github.io/metodologias-ativas/ma-aula-invertida.html</loc>
+    <lastmod>2024-11-28T14:55:42.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ea-dc.github.io/construcao/competencias.html</loc>
+    <lastmod>2024-11-27T17:50:08.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ea-dc.github.io/index.html</loc>
+    <lastmod>2025-05-09T19:14:06.917Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ea-dc.github.io/material/index.html</loc>
+    <lastmod>2025-03-25T17:15:18.130Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ea-dc.github.io/acoes/2025-06-apresentacao-do-grupo-metodologias-ativas.html</loc>
+    <lastmod>2025-05-09T19:11:13.797Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ea-dc.github.io/acoes/index.html</loc>
+    <lastmod>2025-05-09T19:12:01.488Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ea-dc.github.io/sobre.html</loc>
+    <lastmod>2024-11-27T20:15:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ea-dc.github.io/material/taxonomia-de-bloom-quadro-de-verbos.html</loc>
+    <lastmod>2025-03-25T17:24:36.146Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ea-dc.github.io/construcao/index.html</loc>
+    <lastmod>2024-11-27T17:52:56.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ea-dc.github.io/metodologias-ativas/categorias.html</loc>
+    <lastmod>2024-11-28T15:16:22.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ea-dc.github.io/metodologias-ativas/ma-pbl.html</loc>
+    <lastmod>2024-11-28T14:54:07.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ea-dc.github.io/metodologias-ativas/ma-tbl.html</loc>
+    <lastmod>2024-11-28T14:53:32.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ea-dc.github.io/avaliacao/index.html</loc>
+    <lastmod>2024-11-27T15:28:36.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ea-dc.github.io/relatos/snowball-cap-nocoes-computacao.html</loc>
+    <lastmod>2025-05-09T19:20:36.374Z</lastmod>
   </url>
 </urlset>

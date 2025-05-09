@@ -2,35 +2,8 @@
   {
     "listing": "/relatos/index.html",
     "items": [
-      "/relatos/caca-ao-tesouro-cap-execucao-sequencial.html"
-    ]
-  },
-  {
-    "listing": "/avaliacao/index.html",
-    "items": []
-  },
-  {
-    "listing": "/construcao/index.html",
-    "items": [
-      "/construcao/competencias.html"
-    ]
-  },
-  {
-    "listing": "/acoes/index.html",
-    "items": [
-      "/acoes/2025-01-curso-metaa.html"
-    ]
-  },
-  {
-    "listing": "/material/index.html",
-    "items": [
-      "/material/taxonomia-de-bloom-quadro-de-verbos.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/acoes/2025-01-curso-metaa.html"
+      "/relatos/caca-ao-tesouro-cap-execucao-sequencial.html",
+      "/relatos/snowball-cap-nocoes-computacao.html"
     ]
   },
   {
@@ -41,5 +14,33 @@
       "/metodologias-ativas/ma-aula-invertida.html",
       "/metodologias-ativas/ma-snowball.html"
     ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/acoes/2025-06-apresentacao-do-grupo-metodologias-ativas.html"
+    ]
+  },
+  {
+    "listing": "/material/index.html",
+    "items": [
+      "/material/taxonomia-de-bloom-quadro-de-verbos.html"
+    ]
+  },
+  {
+    "listing": "/acoes/index.html",
+    "items": [
+      "/acoes/2025-06-apresentacao-do-grupo-metodologias-ativas.html"
+    ]
+  },
+  {
+    "listing": "/construcao/index.html",
+    "items": [
+      "/construcao/competencias.html"
+    ]
+  },
+  {
+    "listing": "/avaliacao/index.html",
+    "items": []
   }
 ]
