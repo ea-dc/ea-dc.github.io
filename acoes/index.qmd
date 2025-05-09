@@ -7,9 +7,8 @@ listing:
     categories: true
     sort-ui: true
     filter-ui: true
-    fields: [title, author, description, date, categories]
+    fields: [date, title, author, description, categories]
 page-layout: full
 title-block-bannerrR: false
 ---
  
-Seguem exemplos de uso do material deste site aplicado a disciplinas e aos próprios projetos pedagógicos.

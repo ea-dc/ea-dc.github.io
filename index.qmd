@@ -24,7 +24,24 @@ Este site é dedicado ao planejamento do ensino e aprendizagem no DC!
 
 No final de 2024 um grupo de docentes do [Departamento de Computação](http://www.dc.ufscar.br) se uniu para discutir, tão amplamente quanto possível, as relações entre o ensino e a aprendizagem para os cursos de [Ciência da Computação](https://www.dc.ufscar.br/gradua%C3%A7%C3%A3o/ci%C3%AAncia-da-computa%C3%A7%C3%A3o) e [Engenharia de Computação](https://www.ec.ufscar.br/).
 
-No início de 2025 se iniciaram os trabalhos.
+Sua criação foi feita pelo Conselho Departamental na 2ª Reunião Ordinária de 2025 ocorrida em 19 de fevereiro de 2025.
+
+Formação:
+
+* Daniel Lucrédio
+* Edilson Kato
+* Fredy Valente
+* Jander Moreira
+* Marcela Ribeiro
+* Roberto Ferrari
+
+Os objetivos do EADC compreendem:
+
+* Capacitação docente;
+* Promoção da melhoria do ensino e da aprendizagem;
+* Integração de suas ações aos Projetos Pedagógicos de Curso orientados por competências.
+
+A formação do grupo é voluntária e a participação de outros docentes, seja integrando-se ao grupo ou por participações ocasionais, é bem-vinda e, por que não?, incentivada.
 :::
 
 ::: {.column width="5%"}
@@ -37,7 +54,7 @@ No início de 2025 se iniciaram os trabalhos.
 ::: {#acoes}
 :::
 
-[Todas as ações do grupo!](acoes/index.html)
+[Todas as ações do grupo!](acoes/index.qmd)
 
 :::
 

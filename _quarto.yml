@@ -8,14 +8,14 @@ filters:
   - ajuste-data.lua
 
 website:
-  announcement: 
-    icon: exclamation-octagon
-    dismissable: false
-    content: "**Atenção** - Este site está sendo estruturado. Tenha paciência."
-    type: danger
-    position: above-navbar
+  # announcement: 
+  #   icon: exclamation-octagon
+  #   dismissable: false
+  #   content: "**Atenção** - Este site está sendo estruturado. Tenha paciência."
+  #   type: danger
+  #   position: above-navbar
     
-  title: "Ensino e Aprendizagem no DC"
+  title: "EADC - Ensino e Aprendizagem no DC"
   favicon: logo-dc.png
   reader-mode: true
   bread-crumbs: true
@@ -41,7 +41,7 @@ website:
         href: material/index.qmd
       - text: "Relatos"
         href: relatos/index.qmd
-      - sobre.qmd
+      # - sobre.qmd
 
 format:
   html:

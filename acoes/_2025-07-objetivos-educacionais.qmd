@@ -1,0 +1,24 @@
+---
+title: "Apresentação do grupo e Palestra sobre metodologias ativas"
+author: 
+    - Jander Moreira
+categories:
+    - "Objetivos educacionais"
+    - "Taxonomia de Bloom"
+    - "Oficina"
+date: 2025-07-02
+# date-modified: 2025-6-10
+---
+
+A primeira oficina do EADC introduz os objetivos educacionais e a taxonomia de Bloom, além de sua aplicação prática para a elaboração de material didático, listas de exercícios, atividades e avaliações.
+
+## Objetivos eduacionais e a taxonomia de Bloom
+
+Os objetivos educacionais visam ao desenvolvimento integral do indivíduo, abrangendo aspectos cognitivos, sociais, emocionais e éticos. Eles incluem a transmissão de conhecimentos, o estímulo ao pensamento crítico e criativo e a formação de cidadãos participativos. Priorizam-se também competências como adaptabilidade, colaboração e sustentabilidade, preparando os estudantes para os desafios geais.
+
+Além disso, buscam promover equidade e inclusão, garantindo acesso à educação de qualidade para todos, em alinhamento com políticas públicas e metas globais, como os ODS da ONU. O objetivo final é a emancipação humana, permitindo que cada pessoa realize seu potencial e contribua para uma sociedade mais justa.
+
+A Taxonomia de Bloom se relaciona diretamente com os objetivos educacionais ao fornecer uma estrutura hierárquica e sistemática para planejar, organizar e avaliar a aprendizagem. Ela classifica as habilidades cognitivas em níveis de complexidade, desde o mais básico (como lembrar e compreender) até os mais avançados (como analisar, avaliar e criar), ajudando a alinhar as metas educacionais com metodologias e avaliações adequadas.
+
+## A oficina
+A oficina introduz os objetivos educacionais e a taxonomia de Bloom, apresentando exemplos e convidando os participantes a trabalharem, por meio de atividades dirigidas, alguns dos elementos do ensino, como o planejamento de aula, de um exercício ou de uma avaliação.

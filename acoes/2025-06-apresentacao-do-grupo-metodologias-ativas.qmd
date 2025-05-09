@@ -1,0 +1,35 @@
+---
+title: "Apresentação do EADC e Palestra sobre metodologias ativas"
+author: 
+    - Daniel Lucrédio
+    - Edilson Kato
+    - Fredy Valente
+    - Jander Moreira
+    - Marcela Ribeiro
+    - Roberto Ferrari
+categories:
+    - "Grupo EADC"
+    - "Metodologias ativas"
+    - "Palestra"
+date: 2025-06-04
+# date-modified: 2025-6-10
+---
+
+Em 4 de junho de 2025 o grupo se apresenta ao DC em uma reunião programada para as 10h da manhã. A apresentação é seguida por uma palestra proferida por Fredy Valente, a qual dá uma visão geral e prática sobre as metodologias ativas.
+
+## Apresentação do grupo EADC 
+O EADC é um grupo formado por docentes do Departamento de Computação interessados no processo de ensino e aprendizagem. Nesse sentido, seus membros têm interesse em metodologias de ensino (tradicionais e ativas) e de avaliação, além de outros assuntos pertinentes aos alunos e à sala de aula.
+
+Em sua formação inicial, o grupo é integrado pelos seguintes docentes: Daniel Lucrédio, Edilson Reis Rodrigues Kato, Fredy João Valente, Jander Moreira, Marcela Xavier Ribeiro e Roberto Ferrari Jr. Sua criação foi feita pelo Conselho Departamental na 2ª Reunião Ordinária de 2025 ocorrida em 19 de fevereiro de 2025.
+
+Os objetivos iniciais do EADC compreendem:
+
+* Capacitação docente;
+* Promoção da melhoria do ensino e da aprendizagem;
+* Integração de suas ações aos Projetos Pedagógicos de Curso orientados por competências.
+
+A formação do grupo é voluntária e a participação de outros docentes, seja integrando-se ao grupo ou por participações ocasionais, é bem-vinda e, por que não?, incentivada.
+
+
+## Metodologias ativas
+Juntamente à apresentação do EADC à comunidade docente do Departamento, Fredy Valente apresenta uma palestra com uma visão geral sobre as metodologias ativas e suas aplicações.
