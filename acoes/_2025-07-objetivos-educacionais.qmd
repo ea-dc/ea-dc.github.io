@@ -22,3 +22,7 @@ A Taxonomia de Bloom se relaciona diretamente com os objetivos educacionais ao f
 
 ## A oficina
 A oficina introduz os objetivos educacionais e a taxonomia de Bloom, apresentando exemplos e convidando os participantes a trabalharem, por meio de atividades dirigidas, alguns dos elementos do ensino, como o planejamento de aula, de um exercício ou de uma avaliação.
+
+## Material relacionado
+
+[Quadro de verbos da taxonomia de Bloom.](/material/taxonomia-de-bloom-quadro-de-verbos.qmd)
