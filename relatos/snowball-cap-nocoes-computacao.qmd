@@ -54,6 +54,8 @@ A partir da segunda etapa, o professor passou a organizar as ideias e conceitos 
 
 No final, o professor usou o material gerado coletivamente na lousa para repassar os principais conceitos.
 
+![Desenvolvimento dos conceitos estudados.](snowball-cap-nocoes-computacao-1.jpg)
+
 
 ## Considerações sobre os resultados
 
@@ -64,3 +66,5 @@ Com a etapa 1 começando com as experiências individuais, foi possível balance
 Na avaliação visual do professor, os grupos maiores não causaram constrangimento de partipação individuais, pois todos já haviam se acostumado a se manifestar. Com um número menor de grupos, objetivou-se que todos pudessem contribuir para a redação final na lousa, não ficando ninguém de fora.
 
 Na avaliação da atividade, a visão geral foi positiva e os alunos acharam que houve uma boa construção do conhecimento. Poucas dificuldades foram relatadas, sendo elas pontuais.
+
+![Visão geral da turma durante a atividade.](snowball-cap-nocoes-computacao-2.jpg)
