@@ -1,12 +1,8 @@
 ---
 title: "Apresentação do EADC e Palestra sobre metodologias ativas"
 author: 
-    - Daniel Lucrédio
-    - Edilson Kato
+    - Grupo EADC
     - Fredy Valente
-    - Jander Moreira
-    - Marcela Ribeiro
-    - Roberto Ferrari
 categories:
     - "Grupo EADC"
     - "Metodologias ativas"
