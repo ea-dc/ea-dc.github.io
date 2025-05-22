@@ -19,7 +19,11 @@ website:
     
   title: "EADC - Ensino e Aprendizagem no DC"
   favicon: logo-dc.png
+  site-url: https://eadc.ufscar.br
+  repo-url: https://github.com/ea-dc/ea-dc.github.io
+  page-navigation: true
   reader-mode: true
+  # google-analytics: true
   bread-crumbs: true
 
   page-footer: |

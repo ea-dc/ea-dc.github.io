@@ -2,7 +2,7 @@
 
 function altere_data(text)
     if text.text == "Data de Publicação" then
-        text.text = "Data"
+        text.text = ""
     end
     return text
 end

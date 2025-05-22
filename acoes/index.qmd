@@ -8,6 +8,8 @@ listing:
     sort-ui: true
     filter-ui: true
     fields: [date, title, author, description, categories]
+    # field-display-names:
+    #     date: "Data"
 page-layout: full
 title-block-bannerrR: false
 ---
