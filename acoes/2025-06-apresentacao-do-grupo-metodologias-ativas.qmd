@@ -7,11 +7,11 @@ categories:
     - "Grupo EADC"
     - "Metodologias ativas"
     - "Palestra"
-date: 2025-06-04
+date: 2025-06-11
 # date-modified: 2025-6-10
 ---
 
-Em 4 de junho de 2025 o grupo se apresenta ao DC em uma reunião programada para as 10h da manhã. A apresentação é seguida por uma palestra proferida por Fredy Valente, a qual dá uma visão geral e prática sobre as metodologias ativas.
+Em 11 de junho de 2025 o grupo faz sua primeira apresentação à comunidade do DC em uma reunião às 10h da manhã. A apresentação é seguida por uma palestra proferida por Fredy Valente, a qual dá uma visão geral e prática sobre as metodologias ativas.
 
 ## Apresentação do grupo EADC 
 O EADC é um grupo formado por docentes do Departamento de Computação interessados no processo de ensino e aprendizagem. Nesse sentido, seus membros têm interesse em metodologias de ensino (tradicionais e ativas) e de avaliação, além de outros assuntos pertinentes aos alunos e à sala de aula.
