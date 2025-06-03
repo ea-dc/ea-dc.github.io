@@ -4,7 +4,6 @@ project:
     - CNAME
 
 lang: pt-BR 
-# page-layout: full
 
 filters: 
   - ajuste-data.lua
