@@ -22,16 +22,14 @@
     ]
   },
   {
-    "listing": "/material/index.html",
-    "items": [
-      "/material/taxonomia-de-bloom-quadro-de-verbos.html"
-    ]
-  },
-  {
     "listing": "/acoes/index.html",
     "items": [
       "/acoes/2025-06-apresentacao-do-grupo-metodologias-ativas.html"
     ]
+  },
+  {
+    "listing": "/avaliacao/index.html",
+    "items": []
   },
   {
     "listing": "/construcao/index.html",
@@ -40,7 +38,9 @@
     ]
   },
   {
-    "listing": "/avaliacao/index.html",
-    "items": []
+    "listing": "/material/index.html",
+    "items": [
+      "/material/taxonomia-de-bloom-quadro-de-verbos.html"
+    ]
   }
 ]

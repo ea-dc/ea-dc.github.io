@@ -1,10 +1,129 @@
 [
   {
+    "objectID": "sobre.html",
+    "href": "sobre.html",
+    "title": "Sobre nós",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "relatos/index.html",
     "href": "relatos/index.html",
     "title": "Casos práticos",
     "section": "",
-    "text": "Seguem exemplos de uso do material deste site aplicado a disciplinas e aos próprios projetos pedagógicos.\n\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Padrão\n         \n          Título\n        \n         \n          Data - Mais antigo\n        \n         \n          Data - O mais novo\n        \n         \n          Autor\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nCAP: Caça ao tesouro - Execução sequencial de instruções\n\n\n\n\n\n\nGamificação\n\n\nCaça ao tesouro\n\n\n\n\n\n\n\n\n\n2 de abr. de 2025\n\n\nJander Moreira\n\n\n\n\n\n\n\nCAP: Snowball em noções de computação\n\n\n\n\n\n\nSnowball\n\n\n\n\n\n\n\n\n\n31 de mar. de 2025\n\n\nJander Moreira\n\n\n\n\n\n\nSem itens correspondentes"
+    "text": "Seguem exemplos de uso do material deste site aplicado a disciplinas e aos próprios projetos pedagógicos.\n\n\n\n\n\n\n   \n    \n    \n      Ordenar por\n      Padrão\n      \n        Título\n      \n      \n        Data - Mais antigo\n      \n      \n        Data - O mais novo\n      \n      \n        Autor\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nCAP: Caça ao tesouro - Execução sequencial de instruções\n\n\n\nGamificação\n\nCaça ao tesouro\n\n\n\n\n\n\n\n\n\n2 de abr. de 2025\n\n\nJander Moreira\n\n\n\n\n\n\n\nCAP: Snowball em noções de computação\n\n\n\nSnowball\n\n\n\n\n\n\n\n\n\n31 de mar. de 2025\n\n\nJander Moreira\n\n\n\n\n\nSem itens correspondentes"
+  },
+  {
+    "objectID": "objetos-educacionais.html",
+    "href": "objetos-educacionais.html",
+    "title": "Objetos educacionais",
+    "section": "",
+    "text": "Ou objetos de aprendizagem"
+  },
+  {
+    "objectID": "metodologias-ativas/ma-snowball.html",
+    "href": "metodologias-ativas/ma-snowball.html",
+    "title": "Snowball",
+    "section": "",
+    "text": "Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those STOP options will appear with any specified tools.\nWhen the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu. Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.\nWhen the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.\nTools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.\nWhen the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu. Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.\nWhen the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.\nTools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.\nWhen the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.\nTools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.\nWhen the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu."
+  },
+  {
+    "objectID": "metodologias-ativas/index.html",
+    "href": "metodologias-ativas/index.html",
+    "title": "Metodologias ativas",
+    "section": "",
+    "text": "As metodologias ativas são baseadas conceito de aprendizagem signtificativa, de forma que o aprendizado está vinculado a dar um significado (um sentido) para o conhecimento.\nNesse modelo de ensino e aprendizagem, o professor se torna um tutor que conduz o processo, enquanto o aluno age como protagonista, ativamente participando de seu processo de aprendizagem.\n\n\n\n\n\n   \n    \n    \n      Ordenar por\n      Padrão\n      \n        Título\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nAprendizagem baseada em equipes (ABE/TBL)\n\n\n\nEm grupo\n\nCooperação\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAprendizagem baseada em problemas (ABP/PBL)\n\n\n\nEm grupo\n\nDiscussão\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSala de aula invertida\n\n\n\nEstudo prévio\n\nDiscussão\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSnowball\n\n\n\n\n\n\n\n\n\n\n\nSem itens correspondentes"
+  },
+  {
+    "objectID": "material/taxonomia-de-bloom-quadro-de-verbos.html",
+    "href": "material/taxonomia-de-bloom-quadro-de-verbos.html",
+    "title": "Taxonomia de Bloom: Quadro de verbos",
+    "section": "",
+    "text": "Verbos da Taxonomia de Bloom.\n\n\n\nVerbos da Taxonomia de Bloom"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ensino e Aprendizagem no DC",
+    "section": "",
+    "text": "Este site é dedicado ao planejamento do ensino e aprendizagem no DC!\nNo final de 2024 um grupo de docentes do Departamento de Computação se uniu para discutir, tão amplamente quanto possível, as relações entre o ensino e a aprendizagem para os cursos de Ciência da Computação e Engenharia de Computação.\nSua criação foi feita pelo Conselho Departamental na 2ª Reunião Ordinária de 2025 ocorrida em 19 de fevereiro de 2025.\nFormação:\n\nDaniel Lucrédio\nEdilson Kato\nFredy Valente\nJander Moreira\nMarcela Ribeiro\nRoberto Ferrari\n\nOs objetivos do EADC compreendem:\n\nCapacitação docente;\nPromoção da melhoria do ensino e da aprendizagem;\nIntegração de suas ações aos Projetos Pedagógicos de Curso orientados por competências.\n\nA formação do grupo é voluntária e a participação de outros docentes, seja integrando-se ao grupo ou por participações ocasionais, é bem-vinda e, por que não?, incentivada.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n11 de jun. de 2025\n\n\nGrupo EADC, Fredy Valente\n\n\n\n\n\nSem itens correspondentes\n\nTodas as ações do grupo!"
+  },
+  {
+    "objectID": "index.html#o-que-é-este-site",
+    "href": "index.html#o-que-é-este-site",
+    "title": "Ensino e Aprendizagem no DC",
+    "section": "",
+    "text": "Este site é dedicado ao planejamento do ensino e aprendizagem no DC!\nNo final de 2024 um grupo de docentes do Departamento de Computação se uniu para discutir, tão amplamente quanto possível, as relações entre o ensino e a aprendizagem para os cursos de Ciência da Computação e Engenharia de Computação.\nSua criação foi feita pelo Conselho Departamental na 2ª Reunião Ordinária de 2025 ocorrida em 19 de fevereiro de 2025.\nFormação:\n\nDaniel Lucrédio\nEdilson Kato\nFredy Valente\nJander Moreira\nMarcela Ribeiro\nRoberto Ferrari\n\nOs objetivos do EADC compreendem:\n\nCapacitação docente;\nPromoção da melhoria do ensino e da aprendizagem;\nIntegração de suas ações aos Projetos Pedagógicos de Curso orientados por competências.\n\nA formação do grupo é voluntária e a participação de outros docentes, seja integrando-se ao grupo ou por participações ocasionais, é bem-vinda e, por que não?, incentivada."
+  },
+  {
+    "objectID": "index.html#o-que-acontece-por-aqui",
+    "href": "index.html#o-que-acontece-por-aqui",
+    "title": "Ensino e Aprendizagem no DC",
+    "section": "",
+    "text": "11 de jun. de 2025\n\n\nGrupo EADC, Fredy Valente\n\n\n\n\n\nSem itens correspondentes\n\nTodas as ações do grupo!"
+  },
+  {
+    "objectID": "construcao/competencias.html",
+    "href": "construcao/competencias.html",
+    "title": "Competências",
+    "section": "",
+    "text": "Competências!"
+  },
+  {
+    "objectID": "acoes/index.html",
+    "href": "acoes/index.html",
+    "title": "Todas as ações realizadas",
+    "section": "",
+    "text": "Ordenar por\n      Padrão\n      \n        Título\n      \n      \n        Data - Mais antigo\n      \n      \n        Data - O mais novo\n      \n      \n        Autor\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nApresentação do EADC e Palestra sobre metodologias ativas\n\n\n\nGrupo EADC\n\nMetodologias ativas\n\nPalestra\n\n\n\n\n\n\n\n\n\n11 de jun. de 2025\n\n\nGrupo EADC, Fredy Valente\n\n\n\n\n\nSem itens correspondentes"
+  },
+  {
+    "objectID": "acoes/2025-06-apresentacao-do-grupo-metodologias-ativas.html",
+    "href": "acoes/2025-06-apresentacao-do-grupo-metodologias-ativas.html",
+    "title": "Apresentação do EADC e Palestra sobre metodologias ativas",
+    "section": "",
+    "text": "Em 11 de junho de 2025 o grupo faz sua primeira apresentação à comunidade do DC. A apresentação é seguida por uma palestra proferida por Fredy Valente sobre metodologias ativas."
+  },
+  {
+    "objectID": "acoes/2025-06-apresentacao-do-grupo-metodologias-ativas.html#apresentação-do-grupo-eadc",
+    "href": "acoes/2025-06-apresentacao-do-grupo-metodologias-ativas.html#apresentação-do-grupo-eadc",
+    "title": "Apresentação do EADC e Palestra sobre metodologias ativas",
+    "section": "Apresentação do grupo EADC",
+    "text": "Apresentação do grupo EADC\nO EADC é um grupo formado por docentes do Departamento de Computação interessados no processo de ensino e aprendizagem. Nesse sentido, seus membros têm interesse em metodologias de ensino (tradicionais e ativas) e de avaliação, além de outros assuntos pertinentes aos alunos e à sala de aula.\nEm sua formação inicial, o grupo é integrado pelos seguintes docentes: Daniel Lucrédio, Edilson Reis Rodrigues Kato, Fredy João Valente, Jander Moreira, Marcela Xavier Ribeiro e Roberto Ferrari Jr. Sua criação foi feita pelo Conselho Departamental na 2ª Reunião Ordinária de 2025 ocorrida em 19 de fevereiro de 2025.\nOs objetivos iniciais do EADC compreendem:\n\nCapacitação docente;\nPromoção da melhoria do ensino e da aprendizagem;\nIntegração de suas ações aos Projetos Pedagógicos de Curso orientados por competências.\n\nA formação do grupo é voluntária e a participação de outros docentes, seja integrando-se ao grupo ou por participações ocasionais, é bem-vinda e, por que não?, incentivada."
+  },
+  {
+    "objectID": "acoes/2025-06-apresentacao-do-grupo-metodologias-ativas.html#metodologias-ativas",
+    "href": "acoes/2025-06-apresentacao-do-grupo-metodologias-ativas.html#metodologias-ativas",
+    "title": "Apresentação do EADC e Palestra sobre metodologias ativas",
+    "section": "Metodologias ativas",
+    "text": "Metodologias ativas\nJuntamente à apresentação do EADC à comunidade docente do Departamento, Fredy Valente apresenta uma palestra com uma visão geral sobre as metodologias ativas e suas aplicações."
+  },
+  {
+    "objectID": "avaliacao/index.html",
+    "href": "avaliacao/index.html",
+    "title": "Avaliação",
+    "section": "",
+    "text": "Instrumentos de avaliação.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTítulo\nDescrição\nCategorias\n\n\n\n\n\nSem itens correspondentes"
+  },
+  {
+    "objectID": "construcao/index.html",
+    "href": "construcao/index.html",
+    "title": "Construção",
+    "section": "",
+    "text": "Material destinado a como organizar, planejar etc.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\nTítulo\n\n\n\nDescrição\n\n\n\n\n\n\n\n\nCompetências\n\n\n\n\n\n\n\n\n\nSem itens correspondentes"
+  },
+  {
+    "objectID": "material/index.html",
+    "href": "material/index.html",
+    "title": "Material",
+    "section": "",
+    "text": "Seguem exemplos de uso do material deste site aplicado a disciplinas e aos próprios projetos pedagógicos.\nUma coletânea dos materiais usados neste site pode ser vista no Google Drive\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTaxonomia de Bloom: Quadro de verbos\n\n\n\n\n\n\n\n\nJander Moreira\n\n\n\n\n\nSem itens correspondentes"
+  },
+  {
+    "objectID": "metodologias-ativas/categorias.html",
+    "href": "metodologias-ativas/categorias.html",
+    "title": "Categorias das metodologias ativas",
+    "section": "",
+    "text": "Categoria\nClasse\nSignificado\n\n\n\n\nTurmas grandes\nPúblico\nAplicável a turmas grandes com divisão em equipes.\n\n\nColaboração\nInfraestrutura\nRequer sala com mesas e cadeiras móveis para promover a interação"
   },
   {
     "objectID": "relatos/caca-ao-tesouro-cap-execucao-sequencial.html",
@@ -33,125 +152,6 @@
     "title": "CAP: Caça ao tesouro - Execução sequencial de instruções",
     "section": "Considerações sobre os resultados",
     "text": "Considerações sobre os resultados\nA dinâmica não tomou muito do tempo de aula e os alunos se motivaram a realizar as instruções. O prêmio no final era desconhecido previamente e foi bem recebido.\nSegundo a percepção do professor, os conceitos, que ainda não tinham sido formalizados, foram entendidos e assimilados."
-  },
-  {
-    "objectID": "objetos-educacionais.html",
-    "href": "objetos-educacionais.html",
-    "title": "Objetos educacionais",
-    "section": "",
-    "text": "Ou objetos de aprendizagem"
-  },
-  {
-    "objectID": "metodologias-ativas/index.html",
-    "href": "metodologias-ativas/index.html",
-    "title": "Metodologias ativas",
-    "section": "",
-    "text": "As metodologias ativas são baseadas conceito de aprendizagem signtificativa, de forma que o aprendizado está vinculado a dar um significado (um sentido) para o conhecimento.\nNesse modelo de ensino e aprendizagem, o professor se torna um tutor que conduz o processo, enquanto o aluno age como protagonista, ativamente participando de seu processo de aprendizagem.\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Padrão\n         \n          Título\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nAprendizagem baseada em equipes (ABE/TBL)\n\n\n\n\n\n\nEm grupo\n\n\nCooperação\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAprendizagem baseada em problemas (ABP/PBL)\n\n\n\n\n\n\nEm grupo\n\n\nDiscussão\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSala de aula invertida\n\n\n\n\n\n\nEstudo prévio\n\n\nDiscussão\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSnowball\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSem itens correspondentes"
-  },
-  {
-    "objectID": "metodologias-ativas/ma-snowball.html",
-    "href": "metodologias-ativas/ma-snowball.html",
-    "title": "Snowball",
-    "section": "",
-    "text": "Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those STOP options will appear with any specified tools.\nWhen the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu. Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.\nWhen the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.\nTools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.\nWhen the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu. Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.\nWhen the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.\nTools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.\nWhen the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.\nTools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.\nWhen the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu."
-  },
-  {
-    "objectID": "construcao/competencias.html",
-    "href": "construcao/competencias.html",
-    "title": "Competências",
-    "section": "",
-    "text": "Competências!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ensino e Aprendizagem no DC",
-    "section": "",
-    "text": "Este site é dedicado ao planejamento do ensino e aprendizagem no DC!\nNo final de 2024 um grupo de docentes do Departamento de Computação se uniu para discutir, tão amplamente quanto possível, as relações entre o ensino e a aprendizagem para os cursos de Ciência da Computação e Engenharia de Computação.\nSua criação foi feita pelo Conselho Departamental na 2ª Reunião Ordinária de 2025 ocorrida em 19 de fevereiro de 2025.\nFormação:\n\nDaniel Lucrédio\nEdilson Kato\nFredy Valente\nJander Moreira\nMarcela Ribeiro\nRoberto Ferrari\n\nOs objetivos do EADC compreendem:\n\nCapacitação docente;\nPromoção da melhoria do ensino e da aprendizagem;\nIntegração de suas ações aos Projetos Pedagógicos de Curso orientados por competências.\n\nA formação do grupo é voluntária e a participação de outros docentes, seja integrando-se ao grupo ou por participações ocasionais, é bem-vinda e, por que não?, incentivada.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n11 de jun. de 2025\n\n\nGrupo EADC, Fredy Valente\n\n\n\n\n\n\nSem itens correspondentes\n\n\nTodas as ações do grupo!"
-  },
-  {
-    "objectID": "index.html#o-que-é-este-site",
-    "href": "index.html#o-que-é-este-site",
-    "title": "Ensino e Aprendizagem no DC",
-    "section": "",
-    "text": "Este site é dedicado ao planejamento do ensino e aprendizagem no DC!\nNo final de 2024 um grupo de docentes do Departamento de Computação se uniu para discutir, tão amplamente quanto possível, as relações entre o ensino e a aprendizagem para os cursos de Ciência da Computação e Engenharia de Computação.\nSua criação foi feita pelo Conselho Departamental na 2ª Reunião Ordinária de 2025 ocorrida em 19 de fevereiro de 2025.\nFormação:\n\nDaniel Lucrédio\nEdilson Kato\nFredy Valente\nJander Moreira\nMarcela Ribeiro\nRoberto Ferrari\n\nOs objetivos do EADC compreendem:\n\nCapacitação docente;\nPromoção da melhoria do ensino e da aprendizagem;\nIntegração de suas ações aos Projetos Pedagógicos de Curso orientados por competências.\n\nA formação do grupo é voluntária e a participação de outros docentes, seja integrando-se ao grupo ou por participações ocasionais, é bem-vinda e, por que não?, incentivada."
-  },
-  {
-    "objectID": "index.html#o-que-acontece-por-aqui",
-    "href": "index.html#o-que-acontece-por-aqui",
-    "title": "Ensino e Aprendizagem no DC",
-    "section": "",
-    "text": "11 de jun. de 2025\n\n\nGrupo EADC, Fredy Valente\n\n\n\n\n\n\nSem itens correspondentes\n\n\nTodas as ações do grupo!"
-  },
-  {
-    "objectID": "material/index.html",
-    "href": "material/index.html",
-    "title": "Material",
-    "section": "",
-    "text": "Seguem exemplos de uso do material deste site aplicado a disciplinas e aos próprios projetos pedagógicos.\nUma coletânea dos materiais usados neste site pode ser vista no Google Drive\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTaxonomia de Bloom: Quadro de verbos\n\n\n\n\n\n\n\n\n\n\n\nJander Moreira\n\n\n\n\n\n\nSem itens correspondentes"
-  },
-  {
-    "objectID": "acoes/2025-06-apresentacao-do-grupo-metodologias-ativas.html",
-    "href": "acoes/2025-06-apresentacao-do-grupo-metodologias-ativas.html",
-    "title": "Apresentação do EADC e Palestra sobre metodologias ativas",
-    "section": "",
-    "text": "Em 11 de junho de 2025 o grupo faz sua primeira apresentação à comunidade do DC. A apresentação é seguida por uma palestra proferida por Fredy Valente sobre metodologias ativas."
-  },
-  {
-    "objectID": "acoes/2025-06-apresentacao-do-grupo-metodologias-ativas.html#apresentação-do-grupo-eadc",
-    "href": "acoes/2025-06-apresentacao-do-grupo-metodologias-ativas.html#apresentação-do-grupo-eadc",
-    "title": "Apresentação do EADC e Palestra sobre metodologias ativas",
-    "section": "Apresentação do grupo EADC",
-    "text": "Apresentação do grupo EADC\nO EADC é um grupo formado por docentes do Departamento de Computação interessados no processo de ensino e aprendizagem. Nesse sentido, seus membros têm interesse em metodologias de ensino (tradicionais e ativas) e de avaliação, além de outros assuntos pertinentes aos alunos e à sala de aula.\nEm sua formação inicial, o grupo é integrado pelos seguintes docentes: Daniel Lucrédio, Edilson Reis Rodrigues Kato, Fredy João Valente, Jander Moreira, Marcela Xavier Ribeiro e Roberto Ferrari Jr. Sua criação foi feita pelo Conselho Departamental na 2ª Reunião Ordinária de 2025 ocorrida em 19 de fevereiro de 2025.\nOs objetivos iniciais do EADC compreendem:\n\nCapacitação docente;\nPromoção da melhoria do ensino e da aprendizagem;\nIntegração de suas ações aos Projetos Pedagógicos de Curso orientados por competências.\n\nA formação do grupo é voluntária e a participação de outros docentes, seja integrando-se ao grupo ou por participações ocasionais, é bem-vinda e, por que não?, incentivada."
-  },
-  {
-    "objectID": "acoes/2025-06-apresentacao-do-grupo-metodologias-ativas.html#metodologias-ativas",
-    "href": "acoes/2025-06-apresentacao-do-grupo-metodologias-ativas.html#metodologias-ativas",
-    "title": "Apresentação do EADC e Palestra sobre metodologias ativas",
-    "section": "Metodologias ativas",
-    "text": "Metodologias ativas\nJuntamente à apresentação do EADC à comunidade docente do Departamento, Fredy Valente apresenta uma palestra com uma visão geral sobre as metodologias ativas e suas aplicações."
-  },
-  {
-    "objectID": "acoes/index.html",
-    "href": "acoes/index.html",
-    "title": "Todas as ações realizadas",
-    "section": "",
-    "text": "Ordenar por\n       Padrão\n         \n          Título\n        \n         \n          Data - Mais antigo\n        \n         \n          Data - O mais novo\n        \n         \n          Autor\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nApresentação do EADC e Palestra sobre metodologias ativas\n\n\n\n\n\n\nGrupo EADC\n\n\nMetodologias ativas\n\n\nPalestra\n\n\n\n\n\n\n\n\n\n11 de jun. de 2025\n\n\nGrupo EADC, Fredy Valente\n\n\n\n\n\n\nSem itens correspondentes"
-  },
-  {
-    "objectID": "sobre.html",
-    "href": "sobre.html",
-    "title": "Sobre nós",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "material/taxonomia-de-bloom-quadro-de-verbos.html",
-    "href": "material/taxonomia-de-bloom-quadro-de-verbos.html",
-    "title": "Taxonomia de Bloom: Quadro de verbos",
-    "section": "",
-    "text": "Verbos da Taxonomia de Bloom.\n\n\n\nVerbos da Taxonomia de Bloom"
-  },
-  {
-    "objectID": "construcao/index.html",
-    "href": "construcao/index.html",
-    "title": "Construção",
-    "section": "",
-    "text": "Material destinado a como organizar, planejar etc.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTítulo\n\n\nDescrição\n\n\n\n\n\n\nCompetências\n\n\n\n\n\n\n\n\nSem itens correspondentes"
-  },
-  {
-    "objectID": "metodologias-ativas/categorias.html",
-    "href": "metodologias-ativas/categorias.html",
-    "title": "Categorias das metodologias ativas",
-    "section": "",
-    "text": "Categoria\nClasse\nSignificado\n\n\n\n\nTurmas grandes\nPúblico\nAplicável a turmas grandes com divisão em equipes.\n\n\nColaboração\nInfraestrutura\nRequer sala com mesas e cadeiras móveis para promover a interação"
-  },
-  {
-    "objectID": "avaliacao/index.html",
-    "href": "avaliacao/index.html",
-    "title": "Avaliação",
-    "section": "",
-    "text": "Instrumentos de avaliação.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTítulo\n\n\nDescrição\n\n\nCategorias\n\n\n\n\n\n\n\nSem itens correspondentes"
   },
   {
     "objectID": "relatos/snowball-cap-nocoes-computacao.html",
