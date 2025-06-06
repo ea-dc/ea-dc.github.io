@@ -1,6 +1,7 @@
 out/
 _site/
 .quarto/
+*files/
 
 /.quarto/
 
