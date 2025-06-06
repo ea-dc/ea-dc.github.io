@@ -8,4 +8,4 @@ Site sobre Ensino e Aprendizagem no Departamento de Computação
 
 ## Como editar
 
-Veja as orientações na [wiki](/wiki).
+Veja as orientações na [wiki](https://github.com/ea-dc/ea-dc.github.io//wiki).
