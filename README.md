@@ -8,9 +8,89 @@ Site sobre Ensino e Aprendizagem no Departamento de Computação
 
 ## Sofware necessário para publicação
 
-A ferramenta usada para a geração do site é o Quarto, que gera, a partir de arquivos markdown (`.qmd`), os arquivos HTML.
+A ferramenta usada para a geração do site é o Quarto, que gera, a partir de arquivos markdown (`.qmd`), os arquivos HTML. 
+
+Embora a edição dos arquivos possa ser feita apenas editando os arquivos do markdown com qualquer editor de texto simples, o uso do VSCode é recomendado, pois integra as atualizações para o GitHub.
+
+### Instalações de programas
+
+<details>
+<summary>Orientações para o Ubuntu/Debian</summary>
+
+#### Instalação do Quarto
+
+Viste o site https://quarto.org/docs/get-started e baixe a última versão do Quarto no formato `deb`.
+
+Abra um terminal no diretório onde o arquivo foi salvo e faça a instalação.
+
+```bash
+$ sudo dpkg -i quarto*.deb
+```
+
+Teste a instalação.
+
+```bash
+$ quarto -v
+1.7.31
+```
+
+#### Instalação do Git
+
+A instalação do Git pode ser feita diretamente dos repositórios padrão.
+
+```bash
+$ sudo apt install git
+```
+
+Teste a instalação.
+
+```bash
+$ git -v
+git version 2.43.0
+```
+
+#### Instalação do VSCode
+
+O VSCode pode ser instalado de várias formas.
+
+##### Médodo 1: snap
+
+```bash
+$ sudo snap install --classic code
+```
+
+##### Médodo 2: pacote `deb`
+
+Visite https://code.visualstudio.com/Download e baixe o arquivo `deb` para o Ubuntu.
+
+Abra um terminal no diretório onde o arquivo foi salvo e faça a instalação.
+
+```bash
+$ sudo dpkg -i code*.deb
+```
+
+Teste a instalação.
+
+```bash
+$ code -v
+1.100.3
+258e40fedc6cb8edf399a463ce3a9d32e7e1f6f3
+x64
+```
+
+</details>
 
 
+<details>
+<summary>Orientações para o Windows</summary>
+
+### Instalação do Quarto
+
+### Instalação do Git
+
+### Instalação do VSCode
+
+</details>
 
 ## Orientações para edição
 
