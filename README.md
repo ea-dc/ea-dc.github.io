@@ -1,3 +1,4 @@
+
 # ea-dc.github.io
 Site sobre Ensino e Aprendizagem no Departamento de Computação
 
@@ -5,7 +6,11 @@ Site sobre Ensino e Aprendizagem no Departamento de Computação
 * Este site: [https://eadc.ufscar.br](https://eadc.ufscar.br)
 
 
-## Sofware necessário para edição
+## Sofware necessário para publicação
+
+A ferramenta usada para a geração do site é o Quarto, que gera, a partir de arquivos markdown (`.qmd`), os arquivos HTML.
+
+
 
 ## Orientações para edição
 
