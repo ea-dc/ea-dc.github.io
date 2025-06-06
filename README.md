@@ -2,9 +2,13 @@
 Site sobre Ensino e Aprendizagem no Departamento de Computação
 
 * [Departamento de Computação](http://www.dc.ufscar.br) da [Universidade Federal de São Carlos](http://www.ufscar.br)
-* Este site: [EADC](https://www.eadc.ufscar.br) (ainda não configurado)
+* Este site: [https://eadc.ufscar.br](https://eadc.ufscar.br)
+
+
+## Sofware necessário para edição
 
 ## Orientações para edição
+
 
 
 ### Obtenção dos arquivos
