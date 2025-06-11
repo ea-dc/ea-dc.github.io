@@ -1,5 +1,5 @@
 ---
-title: "Apresentação do grupo e Palestra sobre metodologias ativas"
+title: "Objetivos Educacionais e a Taxonomia de Bloom"
 author: 
     - Jander Moreira
 categories:
