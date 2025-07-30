@@ -86,7 +86,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-title','listing-author','listing-description','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -320,6 +320,10 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
+    <a class="nav-link" href="../metodologias-ativas/index.html"> 
+<span class="menu-text">Metodologias ativas</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../material/index.html"> 
 <span class="menu-text">Material</span></a>
   </li>  
@@ -375,7 +379,7 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="listing-actions-group">
    <div class="input-group input-group-sm quarto-listing-sort">
     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
@@ -401,12 +405,14 @@ window.Quarto = {
       <input type="text" class="search form-control" placeholder="Filtro">
     </div>
 </div>
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="R2FtaWZpY2ElQzMlQTclQzMlQTNvJTJDQ2ElQzMlQTdhJTIwYW8lMjB0ZXNvdXJv" data-listing-date-sort="1743562800000" data-listing-file-modified-sort="1744035683275" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="612">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../relatos/caca-ao-tesouro-cap-execucao-sequencial.html" class="no-external">CAP: Caça ao tesouro - Execução sequencial de instruções</a>
-</h3>
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="R2FtaWZpY2ElQzMlQTclQzMlQTNvJTJDQ2ElQzMlQTdhJTIwYW8lMjB0ZXNvdXJv" data-listing-date-sort="1743562800000" data-listing-file-modified-sort="1744035683000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="612">
+<a href="../relatos/caca-ao-tesouro-cap-execucao-sequencial.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+CAP: Caça ao tesouro - Execução sequencial de instruções
+</h5>
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('R2FtaWZpY2ElQzMlQTclQzMlQTNv'); return false;">Gamificação</div>
@@ -414,45 +420,45 @@ window.Quarto = {
 <div class="listing-category" onclick="window.quartoListingCategory('Q2ElQzMlQTdhJTIwYW8lMjB0ZXNvdXJv'); return false;">Caça ao tesouro</div>
 
 </div>
-<div class="delink listing-description"><a href="../relatos/caca-ao-tesouro-cap-execucao-sequencial.html" class="no-external">
+<div class="card-text listing-description delink">
 Aplicação de uma variação da <em>Caça ao tesouro</em> para ilustrar as características da execução sequencial de instruções em algoritmos na aula de CAP (3/4/2025).
-</a></div>
 </div>
-<div class="metadata">
-<a href="../relatos/caca-ao-tesouro-cap-execucao-sequencial.html" class="no-external">
-<div class="listing-date">
-2 de abr. de 2025
-</div>
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 Jander Moreira
 </div>
-</a>
+<div class="listing-date">
+2 de abr. de 2025
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="U25vd2JhbGw=" data-listing-date-sort="1743390000000" data-listing-file-modified-sort="1747057636052" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="658">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../relatos/snowball-cap-nocoes-computacao.html" class="no-external">CAP: Snowball em noções de computação</a>
-</h3>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="U25vd2JhbGw=" data-listing-date-sort="1743390000000" data-listing-file-modified-sort="1747057636000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="658">
+<a href="../relatos/snowball-cap-nocoes-computacao.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+CAP: Snowball em noções de computação
+</h5>
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('U25vd2JhbGw='); return false;">Snowball</div>
 
 </div>
-<div class="delink listing-description"><a href="../relatos/snowball-cap-nocoes-computacao.html" class="no-external">
+<div class="card-text listing-description delink">
 A metodologia <em>snowball</em> foi aplicada para o ensino das noções de computação na primeira aula de CAP (31/3/2025).
-</a></div>
 </div>
-<div class="metadata">
-<a href="../relatos/snowball-cap-nocoes-computacao.html" class="no-external">
-<div class="listing-date">
-31 de mar. de 2025
-</div>
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 Jander Moreira
 </div>
-</a>
+<div class="listing-date">
+31 de mar. de 2025
 </div>
+</div>
+</div>
+</div></a>
 </div>
 </div>
 <div class="listing-no-matching d-none">Sem itens correspondentes</div>

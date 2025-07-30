@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Equipe MetAA">
 
-<title>Material – EADC - Ensino e Aprendizagem no DC</title>
+<title>Coleção Metodologias Ativas na Educação – EADC - Ensino e Aprendizagem no DC</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,8 +32,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../logo-dc.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -74,65 +73,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Procurar"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-material .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-material'] = new List('listing-material', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -324,7 +265,7 @@ window.Quarto = {
 <span class="menu-text">Metodologias ativas</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../material/index.html" aria-current="page"> 
+    <a class="nav-link" href="../material/index.html"> 
 <span class="menu-text">Material</span></a>
   </li>  
   <li class="nav-item">
@@ -345,26 +286,59 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categorias</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todos <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RGVzaWduJTIwVGhpbmtpbmc=">Design Thinking <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RUJM">EBL <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RmlzaGJvd2w=">Fishbowl <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R2FtaWZpY2ElQzMlQTclQzMlQTNv">Gamificação <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SnVsZ2FtZW50byUyMFNpbXVsYWRv">Julgamento Simulado <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWV0b2xvZ2lhJTIwYXRpdmE=">Metologia ativa <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UEJM">PBL <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGpCTA==">PjBL <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVjdXJzb3MlMjBpbnRlcmF0aXZvcw==">Recursos interativos <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2FsYSUyMGRlJTIwQXVsYSUyMEludmVydGlkYQ==">Sala de Aula Invertida <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U25vd2JhbGw=">Snowball <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGF4b25vbWlhJTIwZGUlMjBCbG9vbQ==">Taxonomia de Bloom <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGhpbmstUGFpci1TaGFyZQ==">Think-Pair-Share <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Nesta página</h2>
+   
+  <ul>
+  <li><a href="#coleção" id="toc-coleção" class="nav-link active" data-scroll-target="#coleção">Coleção</a></li>
+  <li><a href="#download" id="toc-download" class="nav-link" data-scroll-target="#download">Download</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Material</h1>
-</div>
+<h1 class="title">Coleção Metodologias Ativas na Educação</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Metologia ativa</div>
+    <div class="quarto-category">Design Thinking</div>
+    <div class="quarto-category">EBL</div>
+    <div class="quarto-category">Recursos interativos</div>
+    <div class="quarto-category">PBL</div>
+    <div class="quarto-category">PjBL</div>
+    <div class="quarto-category">Julgamento Simulado</div>
+    <div class="quarto-category">Fishbowl</div>
+    <div class="quarto-category">Snowball</div>
+    <div class="quarto-category">Think-Pair-Share</div>
+    <div class="quarto-category">Sala de Aula Invertida</div>
+    <div class="quarto-category">Gamificação</div>
+  </div>
+  </div>
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Autor</div>
+    <div class="quarto-title-meta-contents">
+             <p>Equipe MetAA </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading"></div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">29 de julho de 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -374,79 +348,33 @@ window.Quarto = {
 </header>
 
 
-<div id="listing-material" class="quarto-listing quarto-listing-container-grid">
-<div class="listing-actions-group">
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filtro">
-    </div>
-</div>
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="TWV0b2xvZ2lhJTIwYXRpdmElMkNEZXNpZ24lMjBUaGlua2luZyUyQ0VCTCUyQ1JlY3Vyc29zJTIwaW50ZXJhdGl2b3MlMkNQQkwlMkNQakJMJTJDSnVsZ2FtZW50byUyMFNpbXVsYWRvJTJDRmlzaGJvd2wlMkNTbm93YmFsbCUyQ1RoaW5rLVBhaXItU2hhcmUlMkNTYWxhJTIwZGUlMjBBdWxhJTIwSW52ZXJ0aWRhJTJDR2FtaWZpY2ElQzMlQTclQzMlQTNv" data-listing-date-sort="1753758000000" data-listing-file-modified-sort="1753882205254" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="58">
-<a href="../material/colecao-metodologias-ativas.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Coleção Metodologias Ativas na Educação
-</h5>
-<div class="card-text listing-description delink">
-Documento com uma visão geral e prática sobre diversas metodologias ativas.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Equipe MetAA
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="VGF4b25vbWlhJTIwZGUlMjBCbG9vbQ==" data-listing-date-sort="1742871600000" data-listing-file-modified-sort="1742923476000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="24">
-<a href="../material/taxonomia-de-bloom-quadro-de-verbos.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Taxonomia de Bloom: Quadro de verbos
-</h5>
-<div class="card-text listing-description delink">
-Verbos da Taxonomia de Bloom.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Jander Moreira
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">Sem itens correspondentes</div>
-</div>
-<!-- :::: {.columns}
-
-::: {.column width="65%"}
-::: {#material}
-:::
-:::
-
-::: {.column width="3%"}
-:::
+<p>Documento com uma visão geral e prática sobre diversas metodologias ativas.</p>
+<section id="coleção" class="level1">
+<h1>Coleção</h1>
+<p>Este documento foi elaborado pela Equipe <a href="https://www.metaa.ufscar.br/" target="_blank">MetAA</a> e cobre as seguintes metodologias:</p>
+<ol type="1">
+<li>Design Thinking</li>
+<li>Aprendizagem Baseada em Equipes</li>
+<li>Recursos interativos</li>
+<li>Aprendizagem Baseada em Problemas</li>
+<li>Aprendizagem Baseada em Projetos</li>
+<li>Julgamento Simulado</li>
+<li>Fishbowl</li>
+<li>Snowball</li>
+<li>Think-Pair-Share</li>
+<li>Sala de Aula Invertida</li>
+<li>Gamificação</li>
+</ol>
+</section>
+<section id="download" class="level1">
+<h1>Download</h1>
+<ul>
+<li><a href="https://drive.google.com/file/d/1_6mZhtRt-rBJnX3vdxBmU2L0LaSCwWSy/view?usp=drive_link" target="_blank">Coleção Metodologias Ativas na Educação</a></li>
+</ul>
+<p><em>Divulgação autorizada pela Equipe</em>.</p>
 
 
-::: {.column width="25%"}
-::: {.callout}
-## Novidades
-::: {#novidades}
-:::
-:::
-:::
-
-
-::::
--->
-<p>Uma coletânea dos materiais usados neste site (e mais alguns outros) pode ser vista no <a href="https://drive.google.com/drive/folders/1ByWVlqV2BBQB617rbv_C6JakMTT1vQkm?usp=drive_link" target="_blank">Google Drive</a></p>
-
-
-
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

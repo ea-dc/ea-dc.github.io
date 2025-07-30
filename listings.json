@@ -9,9 +9,8 @@
   {
     "listing": "/metodologias-ativas/index.html",
     "items": [
-      "/metodologias-ativas/ma-tbl.html",
       "/metodologias-ativas/ma-pbl.html",
-      "/metodologias-ativas/ma-aula-invertida.html",
+      "/metodologias-ativas/ma-fishbowl.html",
       "/metodologias-ativas/ma-snowball.html"
     ]
   },
@@ -23,16 +22,17 @@
     ]
   },
   {
-    "listing": "/material/index.html",
-    "items": [
-      "/material/taxonomia-de-bloom-quadro-de-verbos.html"
-    ]
-  },
-  {
     "listing": "/acoes/index.html",
     "items": [
       "/acoes/2025-06-apresentacao-do-grupo-metodologias-ativas.html",
       "/acoes/2025-07-anuncio-fim-semestre.html"
+    ]
+  },
+  {
+    "listing": "/material/index.html",
+    "items": [
+      "/material/colecao-metodologias-ativas.html",
+      "/material/taxonomia-de-bloom-quadro-de-verbos.html"
     ]
   },
   {
