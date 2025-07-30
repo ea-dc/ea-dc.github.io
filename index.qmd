@@ -49,6 +49,7 @@ A formação do grupo é voluntária e a participação de outros docentes, seja
 
 
 ::: {.column width="35%"}
+::: {.callout}
 ## O que acontece por aqui?
 
 ::: {#acoes}
@@ -56,6 +57,7 @@ A formação do grupo é voluntária e a participação de outros docentes, seja
 
 [Todas as ações do grupo!](acoes/index.qmd)
 
+:::
 :::
 
 ::::

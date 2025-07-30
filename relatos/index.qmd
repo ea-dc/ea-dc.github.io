@@ -5,7 +5,7 @@ listing:
         - "*.qmd"
         - "!_*.qmd"
     sort: title
-    type: default
+    type: grid
     categories: true
     sort-ui: true
     filter-ui: true
