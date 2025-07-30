@@ -22,5 +22,7 @@ As metodologias ativas são baseadas conceito de aprendizagem signtificativa, de
 
 Nesse modelo de ensino e aprendizagem, o professor se torna um tutor que conduz o processo, enquanto o aluno age como protagonista, ativamente participando de seu processo de aprendizagem.
 
-<!-- ::: {#metodologias}
-::: -->
+<!--
+::: {#metodologias}
+:::
+-->
