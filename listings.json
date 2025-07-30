@@ -7,14 +7,6 @@
     ]
   },
   {
-    "listing": "/metodologias-ativas/index.html",
-    "items": [
-      "/metodologias-ativas/ma-pbl.html",
-      "/metodologias-ativas/ma-fishbowl.html",
-      "/metodologias-ativas/ma-snowball.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/acoes/2025-07-anuncio-fim-semestre.html",
@@ -39,6 +31,14 @@
     "listing": "/construcao/index.html",
     "items": [
       "/construcao/competencias.html"
+    ]
+  },
+  {
+    "listing": "/metodologias-ativas/index.html",
+    "items": [
+      "/metodologias-ativas/ma-pbl.html",
+      "/metodologias-ativas/ma-fishbowl.html",
+      "/metodologias-ativas/ma-snowball.html"
     ]
   },
   {
