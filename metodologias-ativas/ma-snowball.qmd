@@ -1,26 +1,51 @@
 ---
 title: Snowball
-author: Edilson Kato
+author: Jander Moreira
+categories:
+  - "Turmas médias"
+  - "Grupos pequenos"
+  - "Sala flexível"
+  - "Cadeiras em duplas"
+  - "Média mediação"
+  - "Sessão média"
+  - "Tempo adaptável"
+  - "Pouca preparação prévia"
+  - "Presencial"
+  - "Híbrido"
+  - "Online síncrono"
 ---
 
-Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those STOP options will appear with any specified tools.
+A metodologia ativa Snowball, também conhecida como Snowball Teaching ou Aprendizagem em Bola de Neve, é uma técnica de ensino colaborativo em que os alunos aprendem e constroem conhecimento em camadas, por meio do trabalho em grupos progressivamente maiores.
 
-When the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.
-Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.
 
-When the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.
+# Fases
 
-Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.
+1. **Fase individual**: os alunos refletem ou respondem individualmente a uma pergunta, problema ou conteúdo.
+2. **Duplas**: depois, discutem suas ideias com um colega.
+3. **Grupos maiores**: as duplas se juntam a outras duplas, formando grupos de 4, 8, e assim por diante — como uma bola de neve crescendo.
+4. **Compartilhamento**: por fim, os grupos maiores compartilham os resultados com toda a turma.
 
-When the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.
-Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.
 
-When the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.
+# Objetivos
 
-Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.
+* Estimular o pensamento crítico e a cooperação.
+* Promover engajamento e responsabilidade coletiva pela aprendizagem.
+* Permitir que os alunos revisem, aprimorem e consolidem ideias por meio da troca.
 
-When the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.
 
-Tools specified for a navigation bar will appear on the right side of the Navbar. If you specify a dark theme or reader mode for your website, the controls for those options will appear with any specified tools.
+# Vantagens
 
-When the navbar is collapsed into a menu on smaller screens, the tools will be placed at the bottom of the menu.
+* Favorece o aprendizado ativo e em profundidade.
+* Ajuda alunos tímidos a ganharem confiança aos poucos.
+* Fortalece a escuta, argumentação e o respeito à diversidade de opiniões.
+
+
+# Demandas
+
+* Exige boa mediação do professor para manter o foco da atividade.
+* Pode demandar mais tempo de aula, especialmente com grupos grandes.
+* Requer preparação prévia e clareza nos objetivos pedagógicos.
+
+---
+
+Exemplo de aplicação em [CAP](/relatos/snowball-cap-nocoes-computacao.qmd)

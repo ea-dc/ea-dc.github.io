@@ -1,0 +1,26 @@
+---
+title: "Coleção Metodologias Ativas na Edução"
+author:
+    - "Equipe MetAA"
+    - "Jander Moreira (post)"
+date: 2025-07-29
+categories:
+    - "Metologia ativa"
+---
+
+Elaborado pela Equipe [MetAA](https://www.metaa.ufscar.br/){target="_blank"}, o documento dá uma visão geral sobre diversas metodologias ativas.
+
+1. Metodologias ativas de ensino e aprendizagem
+2. Design Thinking
+3. Aprendizagem Baseada em Equipes
+4. Recursos interativos
+5. Aprendizagem Baseada em Problemas
+6. Aprendizagem Baseada em Projetos
+7. Julgamento Simulado
+8. Fishbowl
+9. Snowbowl
+10. Think-Pair-Share
+11. Sala de Aula Invertida
+12. Gamificação
+
+_Divulgação autorizada pela Equipe_.

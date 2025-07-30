@@ -2,7 +2,71 @@
 title: "Categorias das metodologias ativas"
 ---
 
-| Categoria | Classe | Significado |
-| :-------- | :----------| :----------|
-| Turmas grandes | Público | Aplicável a turmas grandes com divisão em equipes. |
-| Colaboração | Infraestrutura | Requer sala com mesas e cadeiras móveis para promover a interação |
+| Categoria      | Classe         | Significado                                                       |
+| :------------- | :------------- | :---------------------------------------------------------------- |
+| Turmas grandes | Público        | Aplicável a turmas grandes com divisão em equipes.                |
+| Colaboração    | Infraestrutura | Requer sala com mesas e cadeiras móveis para promover a interação |
+
+
+# Público
+
+* Turmas pequenas: até 20 pessoas
+* Turmas médias: 20-40 pessoas
+* Turmas grandes: 40 ou mais pessoas
+* Individual
+* Duplas
+* Grupos pequenos: 2 a 6 membros
+* Grupos grandes: 7 a 15 membros
+* Turma inteira
+* Multinível
+
+
+# Infraestrutura
+
+**Espaço físico**
+
+* Sala tradicional
+* Sala ampla
+* Sala flexível
+* Ambiente externo
+* Auditório
+* Espaço informal (piso, tapete)
+
+**Organização do mobiliário**
+
+* Mesas móveis
+* Cadeiras em círculo
+* Cadeiras em duplas
+* Disposição em grupos
+* Espaço para movimentação
+* Mesas fixas
+
+**Recursos físicos**
+
+* Quadro branco
+* Flipchart
+* Cartazes
+* Materiais impressos
+* Objetos manipuláveis
+
+**Recursos tecnológicos**
+
+* Projetor
+* Computadores
+* Tablets
+* Celulares
+* Wi-Fi
+* Plataforma de videoconferência
+* Ambiente virtual de aprendizagem (AVA)
+* Lousa digital
+* Aplicativos colaborativos
+
+**Nível de flexibilidade**
+
+* Ambiente adaptável
+* Mobiliário modular
+* Infraestrutura mínima
+
+---
+
+Se precisar, posso adaptar essas tags para formatos de banco de dados, formulários ou planilhas. Deseja seguir com "Recursos Humanos" ou outro campo?

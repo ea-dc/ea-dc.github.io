@@ -38,8 +38,8 @@ website:
       #       href: metodologias-ativas/metodologias-ativas.qmd
       # - text: "Construção"
       #   href: construcao/index.html
-      # - text: "Metodologias ativas"
-      #   href: metodologias-ativas/index.html
+      - text: "Metodologias ativas"
+        href: metodologias-ativas/index.html
       # - text: "Avaliação"
       #   href: avaliacao/index.html
       - text: "Material"
