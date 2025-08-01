@@ -1,0 +1,73 @@
+---
+title: "Design Thinking"
+draft: true
+categories:
+    - Em grupo
+    - Cooperação
+---
+
+
+## **Design Thinking: O que é e como aplicar**
+
+### O que é Design Thinking?
+
+Design Thinking (DT) é uma abordagem inovadora voltada para a resolução de problemas e o desenvolvimento de soluções criativas em grupo. Baseia-se em quatro pilares principais:
+
+* Empatia
+* Colaboração multidisciplinar
+* Experimentação
+* Reflexão coletiva
+
+É um processo com várias fases, dinâmico e não linear, que favorece a interação constante entre os participantes. O erro é compreendido como parte natural do aprendizado e uma oportunidade para explorar caminhos alternativos e encontrar soluções mais eficazes.
+
+Essa abordagem é aplicada em contextos variados, como empresas, startups e instituições de ensino. No campo educacional, o Design Thinking é utilizado tanto no planejamento de aulas e projetos quanto como estratégia de ensino-aprendizagem centrada no estudante.
+
+---
+
+### Como aplicar o Design Thinking?
+
+O processo criativo do Design Thinking alterna entre momentos de divergência (exploração de possibilidades) e convergência (foco em soluções), sendo tradicionalmente representado pelo modelo do Duplo Diamante. Ele se organiza em quatro fases principais:
+
+1. Descoberta
+2. Definição
+3. Desenvolvimento (ideação e prototipação)
+4. Entrega (teste e implementação)
+
+Essas fases se desdobram em cinco etapas práticas:
+
+**1. Imersão (Descoberta):**
+Observação e investigação do contexto do problema. Nessa fase, desenvolve-se empatia e valorizam-se diferentes perspectivas dentro da equipe.
+
+**2. Análise e Síntese:**
+Organização e interpretação dos dados coletados para identificar padrões e compreender o problema com mais profundidade.
+
+**3. Ideação:**
+Geração de ideias de forma colaborativa. As equipes definem o projeto a ser desenvolvido a partir das possibilidades levantadas.
+
+**4. Prototipação:**
+Criação de representações concretas das soluções propostas. O objetivo é obter feedback real dos usuários e identificar possíveis ajustes antes da implementação final.
+
+**5. Teste:**
+Avaliação das soluções em prática, observando sua efetividade e impacto. Essa fase permite ajustes e melhorias com base nos resultados observados.
+
+---
+
+### Estrutura para aplicação
+
+**Público:**
+O Design Thinking pode ser utilizado com grupos grandes, desde que organizados em equipes menores e colaborativas.
+
+**Infraestrutura:**
+Ambientes com mesas e cadeiras móveis são ideais para facilitar a colaboração. É recomendável dispor de quadros brancos, paredes para afixar post-its, e espaço para construção de protótipos. Recursos como projetores, notebooks/tablets e acesso à internet também são desejáveis.
+
+**Tempo:**
+O processo deve ser implementado em etapas, ao longo de várias semanas, permitindo o aprofundamento em cada fase.
+
+**Recursos Humanos:**
+É importante contar com participantes de perfis variados e facilitadores preparados para conduzir as atividades com clareza e objetividade.
+
+**Preparação Prévia:**
+Os participantes devem se preparar com antecedência para as atividades propostas, garantindo maior engajamento e aproveitamento.
+
+**Modalidade:**
+Pode ser aplicado em ambientes presenciais, online ou híbridos, com as devidas adaptações para cada formato.

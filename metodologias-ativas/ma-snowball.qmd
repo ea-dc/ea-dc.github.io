@@ -1,19 +1,32 @@
 ---
 title: Snowball
-author: Jander Moreira
 categories:
+  # Tamanho e perfil da turma
   - "Turmas médias"
+  - "Multinível"
+
+  # Tamanho do grupo de trabalho
   - "Grupos pequenos"
+
+  # Espaço físico
   - "Sala flexível"
-  - "Cadeiras em duplas"
-  - "Média mediação"
-  - "Sessão média"
-  - "Tempo adaptável"
-  - "Pouca preparação prévia"
+
+  # Tempo
+  - "Pontual"
+
+  # Recursos humanos
+  - "Facilitador único"
+
+  # Preparação prévia
+  - "Com preparação prévia"
+
+  # Interação
+  - "Síncrona"
+
+  # Modalidade
   - "Presencial"
-  - "Híbrido"
-  - "Online síncrono"
 ---
+
 
 A metodologia ativa Snowball, também conhecida como Snowball Teaching ou Aprendizagem em Bola de Neve, é uma técnica de ensino colaborativo em que os alunos aprendem e constroem conhecimento em camadas, por meio do trabalho em grupos progressivamente maiores.
 
@@ -45,6 +58,18 @@ A metodologia ativa Snowball, também conhecida como Snowball Teaching ou Aprend
 * Exige boa mediação do professor para manter o foco da atividade.
 * Pode demandar mais tempo de aula, especialmente com grupos grandes.
 * Requer preparação prévia e clareza nos objetivos pedagógicos.
+
+# Sobre a aplicação
+
+* Turmas médias: Snowball é mais eficaz em turmas de tamanho médio.
+* Multinível: Pode envolver participantes com diferentes níveis de conhecimento.
+* Grupos pequenos: A dinâmica se dá inicialmente em duplas e depois em grupos maiores (até 6 participantes).
+* Sala flexível: Necessário rearranjo rápido dos participantes.
+* Pontual: Atividade realizada geralmente em um único encontro.
+* Facilitador único: Um mediador costuma conduzir a dinâmica.
+* Com preparação prévia: Normalmente é preciso que os participantes tenham algum preparo inicial.
+* Síncrona: A interação acontece em tempo real.
+* Presencial: Forma mais comum da atividade.
 
 ---
 

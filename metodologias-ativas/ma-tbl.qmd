@@ -1,0 +1,84 @@
+---
+title: Aprendizado baseado em Equipes (TBL)
+categories:
+  # Tamanho e perfil da turma
+  - "Turmas médias"
+  - "Turmas grandes"
+  - "Multinível"
+
+  # Tamanho do grupo de trabalho
+  - "Grupos pequenos"
+
+  # Espaço físico
+  - "Sala flexível"
+
+  # Tempo
+  - "Curta duração"
+  - "Média duração"
+
+  # Recursos humanos
+  - "Facilitador único"
+
+  # Preparação prévia
+  - "Com preparação prévia"
+
+  # Interação
+  - "Síncrona"
+
+  # Modalidade
+  - "Presencial"
+  - "Híbrida"
+  - "Online"
+---
+
+# O que é TBL (Team-Based Learning)?
+
+TBL, ou Aprendizagem Baseada em Equipes, é uma metodologia ativa estruturada que utiliza grupos fixos de alunos para resolver problemas complexos e aplicar conhecimentos, promovendo aprendizado colaborativo e profundo.
+
+
+# Como funciona?
+
+O processo geralmente segue quatro etapas principais:
+
+1. Estudo prévio individual: os alunos acessam conteúdos antes da aula (leitura, vídeos, etc.).
+1. Teste individual (iRAT): ao início da aula, fazem uma avaliação individual sobre o conteúdo estudado.
+1. Teste em grupo (tRAT): os mesmos testes são resolvidos em equipe, promovendo discussão e consenso.
+1. Aplicação de conceitos: os grupos resolvem problemas reais ou simulados, com base no conteúdo.
+
+
+# Objetivos do TBL
+
+* Promover aprendizagem ativa e colaborativa.
+* Estimular a responsabilidade individual e o comprometimento com o grupo.
+* Desenvolver competências como trabalho em equipe, comunicação, liderança e resolução de problemas.
+
+
+# Vantagens
+
+* Equilibra aprendizado individual e coletivo.
+* Aumenta o engajamento dos alunos com o conteúdo.
+* Fortalece a capacidade de argumentar, ouvir e tomar decisões em grupo.
+* Estrutura clara e replicável.
+
+
+# Demandas
+
+* Requer planejamento detalhado por parte do professor.
+* Exige que os alunos se comprometam com o estudo prévio.
+* Pode ser difícil manter grupos equilibrados ao longo do tempo.
+
+
+A TBL é bastante usada no ensino superior, especialmente em cursos da área da saúde, negócios e engenharia, mas pode ser adaptada para outros níveis e contextos.
+
+
+# Sobre a aplicação
+
+* Turmas médias e grandes, Multinível: TBL é eficaz para turmas maiores, com perfis diversos.
+* Grupos pequenos: O trabalho ocorre em equipes pequenas fixas.
+* Sala flexível: Espaço que permite organização em grupos para atividades e discussões.
+* Curta a média duração: TBL ocorre ao longo de alguns encontros, com etapas estruturadas.
+* Facilitador único: Geralmente conduzido por um professor com possível suporte.
+* Com preparação prévia: Os alunos estudam antes para poder participar das atividades em equipe.
+* Síncrona: As interações e discussões são em tempo real.
+* Modalidade: Adaptável a presencial, híbrida e online.
+

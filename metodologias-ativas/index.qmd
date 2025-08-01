@@ -12,15 +12,22 @@ listing:
     fields: [title, description, categories]
 page-layout: full
 title-block-bannerrR: false
-# margin-footer: |
-#     ---
+margin-footer: |
+    ---
 
-#     [O que são as categorias?](categorias.qmd)
+    [O que são as categorias?](categorias.qmd)
 ---
 
 As metodologias ativas são baseadas conceito de aprendizagem signtificativa, de forma que o aprendizado está vinculado a dar um significado (um sentido) para o conhecimento.
 
 Nesse modelo de ensino e aprendizagem, o professor se torna um tutor que conduz o processo, enquanto o aluno age como protagonista, ativamente participando de seu processo de aprendizagem.
 
+::: {.callout-important}
+Note que as [categorias](categorias.qmd) são estabelecidas para a aplicação típica de cada metodologia. Isso não impede, porém, que haja adaptação para aplicação em condições diversas das sugeridas.
+
+Como exemplo, uma atividade que tipicamente seria `com preparação prévia` pode ser adaptada, com o devido cuidado, para que seja `sem preparação prévia`. Os objetivos de aprendizagem devem nortear as adaptações.
+:::
+
 ::: {#metodologias}
 :::
+

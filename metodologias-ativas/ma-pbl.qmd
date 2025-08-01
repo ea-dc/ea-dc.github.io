@@ -1,18 +1,34 @@
 ---
-title: "Aprendizagem baseada em problemas (ABP/PBL)"
+title: Aprendizagem Baseada em Problemas (PBL)
 categories:
-    - "Turmas médias"
-    - "Grupos pequenos"
-    - "Sala flexível"
-    - "Recursos de pesquisa"
-    - "Alta mediação"
-    - "Sessão longa"
-    - "Atividade contínua"
-    - "Leitura prévia"
-    - "Planejamento detalhado"
-    - "Presencial"
-    - "Híbrido"
-    - "Online síncrono"
+  # Tamanho e perfil da turma
+  - "Turmas pequenas"
+  - "Turmas médias"
+  - "Multinível"
+
+  # Tamanho do grupo de trabalho
+  - "Grupos pequenos"
+
+  # Espaço físico
+  - "Sala flexível"
+
+  # Tempo
+  - "Média duração"
+  - "Longa duração"
+
+  # Recursos humanos
+  - "Facilitador único"
+
+  # Preparação prévia
+  - "Com preparação prévia"
+
+  # Interação
+  - "Síncrona"
+
+  # Modalidade
+  - "Presencial"
+  - "Híbrida"
+  - "Online"
 ---
 
 PBL (sigla em inglês para *Problem-Based Learning*, ou *Aprendizagem Baseada em Problemas*) é uma metodologia ativa de ensino que coloca o aluno diante de um problema real ou simulado, sem respostas prontas, para que ele investigue, reflita, discuta e encontre soluções de forma colaborativa.
@@ -51,3 +67,14 @@ PBL (sigla em inglês para *Problem-Based Learning*, ou *Aprendizagem Baseada em
 
 
 Essa metodologia é bastante usada em cursos como Medicina, Engenharia, Direito e também no Ensino Médio, quando o objetivo é ensinar a aprender, e não apenas repassar conteúdos. Se quiser, posso criar um exemplo prático de aplicação do PBL em uma área específica. Deseja isso?
+
+# Sobre a aplicação
+
+* Turmas pequenas e médias, Multinível: PBL funciona bem com grupos de tamanho pequeno a médio, e pode ser aplicada a diferentes níveis de conhecimento.
+* Grupos pequenos: A metodologia se baseia no trabalho colaborativo em pequenos grupos.
+* Sala flexível: Ambiente adaptável para discussões e trabalhos em grupo.
+* Média a longa duração: PBL envolve várias etapas que podem ocorrer ao longo de semanas.
+* Facilitador único: Normalmente um tutor/facilitador orienta, podendo haver monitores para grupos maiores.
+* Com preparação prévia: Os participantes costumam receber material ou problemas para estudo inicial.
+* Síncrona: O trabalho em grupo é feito em encontros regulares e interativos.
+* Modalidade: Pode ser aplicada presencialmente, online ou em formato híbrido.

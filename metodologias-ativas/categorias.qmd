@@ -1,72 +1,72 @@
 ---
-title: "Categorias das metodologias ativas"
+title: "Categorias para as metodologias ativas"
 ---
 
-| Categoria      | Classe         | Significado                                                       |
-| :------------- | :------------- | :---------------------------------------------------------------- |
-| Turmas grandes | Público        | Aplicável a turmas grandes com divisão em equipes.                |
-| Colaboração    | Infraestrutura | Requer sala com mesas e cadeiras móveis para promover a interação |
 
+# Tamanho e perfil da turma
 
-# Público
+| Categoria       | Descrição                                                                                       |
+| --------------- | ----------------------------------------------------------------------------------------------- |
+| Turmas pequenas | Turmas com até 20 participantes.                                                                |
+| Turmas médias   | Turmas entre 20 e 40 participantes.                                                             |
+| Turmas grandes  | Turmas com mais de 40 participantes.                                                            |
+| Multinível      | Turmas compostas por participantes com diferentes níveis de conhecimento, idade ou experiência. |
 
-* Turmas pequenas: até 20 pessoas
-* Turmas médias: 20-40 pessoas
-* Turmas grandes: 40 ou mais pessoas
-* Individual
-* Duplas
-* Grupos pequenos: 2 a 6 membros
-* Grupos grandes: 7 a 15 membros
-* Turma inteira
-* Multinível
+# Tamanho do grupo de trabalho
 
+| Categoria       | Descrição                                                                      |
+| --------------- | ------------------------------------------------------------------------------ |
+| Individual      | Atividades realizadas individualmente.                                         |
+| Duplas          | Atividades realizadas em pares.                                                |
+| Grupos pequenos | Grupos formados por 2 a 6 participantes.                                       |
+| Grupos grandes  | Grupos formados por 7 a 15 participantes.                                      |
+| Turma inteira   | Atividades conduzidas com todos os participantes simultaneamente, sem divisão. |
 
-# Infraestrutura
+# Espaço físico
 
-**Espaço físico**
+| Categoria        | Descrição                                                                                                                                      |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sala ampla       | Ambiente com espaço livre para movimentação, adequado para dinâmicas em grupo e atividades corporais.                                          |
+| Sala flexível    | Sala com leiaute adaptável, que permite mudanças rápidas na organização do espaço e favorece diferentes usos.                                  |
+| Espaço informal  | Ambientes descontraídos, como pátios, lounges ou áreas de convivência, que estimulam a criatividade e a interação.                             |
+| Ambiente externo | Locais ao ar livre, como jardins, pátios ou áreas abertas, que favorecem a exploração, a conexão com o ambiente e dinâmicas não convencionais. |
 
-* Sala tradicional
-* Sala ampla
-* Sala flexível
-* Ambiente externo
-* Auditório
-* Espaço informal (piso, tapete)
+# Tempo
 
-**Organização do mobiliário**
+| Categoria     | Descrição                                                                         |
+| ------------- | --------------------------------------------------------------------------------- |
+| Pontual       | Atividade realizada em um único encontro ou aula.                                 |
+| Curta duração | Atividade desenvolvida ao longo de 2 a 3 encontros.                               |
+| Média duração | Atividade executada em até 4 semanas, com encontros regulares.                    |
+| Longa duração | Atividade que se estende por mais de 4 semanas, com aprofundamento em cada etapa. |
+| Contínuo      | Aplicação recorrente ao longo de um semestre ou ano, como prática regular.        |
 
-* Mesas móveis
-* Cadeiras em círculo
-* Cadeiras em duplas
-* Disposição em grupos
-* Espaço para movimentação
-* Mesas fixas
+# Recursos humanos
 
-**Recursos físicos**
+| Categoria              | Descrição                                                                                       |
+| ---------------------- | ----------------------------------------------------------------------------------------------- |
+| Facilitador único      | Atividade conduzida por um único facilitador (professor ou formador).                           |
+| Facilitadores em dupla | Atividade conduzida por dois facilitadores (professores) para orientar e apoiar os grupos.      |
+| Equipe de apoio        | Necessidade de apoio de monitores ou assistentes para organização e acompanhamento das equipes. |
 
-* Quadro branco
-* Flipchart
-* Cartazes
-* Materiais impressos
-* Objetos manipuláveis
+# Preparação prévia
 
-**Recursos tecnológicos**
+| Categoria             | Descrição                                                                                                                              |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Com preparação prévia | Exige que os participantes realizem alguma atividade antes do encontro principal (como leitura, pesquisa ou organização de materiais). |
+| Sem preparação prévia | Não exige atividades anteriores; os participantes podem iniciar diretamente na proposta.                                               |
 
-* Projetor
-* Computadores
-* Tablets
-* Celulares
-* Wi-Fi
-* Plataforma de videoconferência
-* Ambiente virtual de aprendizagem (AVA)
-* Lousa digital
-* Aplicativos colaborativos
+# Interação
 
-**Nível de flexibilidade**
+| Categoria  | Descrição                                                                    |
+| ---------- | ---------------------------------------------------------------------------- |
+| Assíncrona | Participação em diferentes horários, sem necessidade de encontro simultâneo. |
+| Síncrona   | Participação em tempo real, com interação simultânea entre os participantes. |
 
-* Ambiente adaptável
-* Mobiliário modular
-* Infraestrutura mínima
+# Modalidade
 
----
-
-Se precisar, posso adaptar essas tags para formatos de banco de dados, formulários ou planilhas. Deseja seguir com "Recursos Humanos" ou outro campo?
+| Categoria  | Descrição                                                                    |
+| ---------- | ---------------------------------------------------------------------------- |
+| Presencial | Atividades realizadas com todos os participantes no mesmo local físico.      |
+| Online     | Atividades realizadas totalmente pela internet, sem encontro físico.         |
+| Híbrida    | Combinação de atividades presenciais e online, com participação mista.       |
